@@ -141,7 +141,7 @@
 			"sha256": "d5ef005518ab644b3fb4de089613ea7fdb2c7aa4e981813919d3e1a6ba8dd62a"
 		}
 	},
-	"notes": "Starter snapshot of bundled data. Game version and future season dates are not supplied.",
-	"revision": "starter-2026-09-22",
+	"notes": "Initial connected feed. Bundled reference snapshot; current game version and future season dates are not supplied.",
+	"revision": "2026-09-22.090941",
 	"schema_version": 1
 }
