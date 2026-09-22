@@ -1,0 +1,131 @@
+{
+  "schema_version": 1,
+  "bosses": [
+    {
+      "name": "Dvalin",
+      "billet_family": "Northlander",
+      "material_ids": [
+        "113003",
+        "113004",
+        "113005"
+      ]
+    },
+    {
+      "name": "Andrius",
+      "billet_family": "Northlander",
+      "material_ids": [
+        "113006",
+        "113007",
+        "113008"
+      ]
+    },
+    {
+      "name": "Childe",
+      "billet_family": "Northlander",
+      "material_ids": [
+        "113013",
+        "113014",
+        "113015"
+      ]
+    },
+    {
+      "name": "Azhdaha",
+      "billet_family": "Northlander",
+      "material_ids": [
+        "113017",
+        "113018",
+        "113019"
+      ]
+    },
+    {
+      "name": "Signora",
+      "billet_family": "Northlander",
+      "material_ids": [
+        "113025",
+        "113026",
+        "113027"
+      ]
+    },
+    {
+      "name": "Raiden Shogun",
+      "billet_family": "Northlander",
+      "material_ids": [
+        "113032",
+        "113033",
+        "113034"
+      ]
+    },
+    {
+      "name": "Shouki no Kami",
+      "billet_family": "Midlander",
+      "material_ids": [
+        "113041",
+        "113042",
+        "113043"
+      ]
+    },
+    {
+      "name": "Guardian of Apep's Oasis",
+      "billet_family": "Midlander",
+      "material_ids": [
+        "113046",
+        "113047",
+        "113048"
+      ]
+    },
+    {
+      "name": "All-Devouring Narwhal",
+      "billet_family": "Midlander",
+      "material_ids": [
+        "113054",
+        "113055",
+        "113056"
+      ]
+    },
+    {
+      "name": "The Knave",
+      "billet_family": "Midlander",
+      "material_ids": [
+        "113060",
+        "113061",
+        "113062"
+      ]
+    },
+    {
+      "name": "Lord of Eroded Primal Fire",
+      "billet_family": "Borderland",
+      "material_ids": [
+        "113068",
+        "113069",
+        "113070"
+      ]
+    },
+    {
+      "name": "The Game Before the Gate",
+      "billet_family": "Northlander",
+      "material_ids": [
+        "113073",
+        "113074",
+        "113075"
+      ]
+    },
+    {
+      "name": "The Doctor",
+      "billet_family": "Borderland",
+      "material_ids": [
+        "113081",
+        "113082",
+        "113083"
+      ]
+    },
+    {
+      "name": "Exalted Master of the Heretical Path",
+      "billet_family": "Midlander",
+      "material_ids": [
+        "113087",
+        "113088",
+        "113089"
+      ]
+    }
+  ]
+}

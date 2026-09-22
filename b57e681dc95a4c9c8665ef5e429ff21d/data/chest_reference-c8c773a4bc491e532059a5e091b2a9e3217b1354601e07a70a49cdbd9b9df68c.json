@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "maximums": {
+    "Common": 3646,
+    "Exquisite": 3136,
+    "Precious": 991,
+    "Luxurious": 376,
+    "Remarkable": 381
+  },
+  "source": "Bundled reference; existing totals retained"
+}

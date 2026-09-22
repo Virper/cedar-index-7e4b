@@ -1,0 +1,1496 @@
+[
+  {
+    "id": 12416,
+    "name": "Akuoumaru",
+    "type": "Claymore",
+    "rarity": 4
+  },
+  {
+    "id": 14101,
+    "name": "Apprentice's Notes",
+    "type": "Catalyst",
+    "rarity": 1
+  },
+  {
+    "id": 11515,
+    "name": "Absolution",
+    "type": "Sword",
+    "rarity": 5
+  },
+  {
+    "id": 11501,
+    "name": "Aquila Favonia",
+    "type": "Sword",
+    "rarity": 5
+  },
+  {
+    "id": 12516,
+    "name": "A Teaspoon of Transcendence",
+    "type": "Claymore",
+    "rarity": 5
+  },
+  {
+    "id": 15514,
+    "name": "Astral Vulture's Crimson Plumage",
+    "type": "Bow",
+    "rarity": 5
+  },
+  {
+    "id": 15508,
+    "name": "Aqua Simulacra",
+    "type": "Bow",
+    "rarity": 5
+  },
+  {
+    "id": 15410,
+    "name": "Alley Hunter",
+    "type": "Bow",
+    "rarity": 4
+  },
+  {
+    "id": 11414,
+    "name": "Amenoma Kageuchi",
+    "type": "Sword",
+    "rarity": 4
+  },
+  {
+    "id": 14523,
+    "name": "Angelos' Heptades",
+    "type": "Catalyst",
+    "rarity": 5
+  },
+  {
+    "id": 11517,
+    "name": "Azurelight",
+    "type": "Sword",
+    "rarity": 5
+  },
+  {
+    "id": 12514,
+    "name": "A Thousand Blazing Suns",
+    "type": "Claymore",
+    "rarity": 5
+  },
+  {
+    "id": 12511,
+    "name": "Beacon of the Reed Sea",
+    "type": "Claymore",
+    "rarity": 5
+  },
+  {
+    "id": 13101,
+    "name": "Beginner's Protector",
+    "type": "Polearm",
+    "rarity": 1
+  },
+  {
+    "id": 11518,
+    "name": "Athame Artis",
+    "type": "Sword",
+    "rarity": 5
+  },
+  {
+    "id": 11408,
+    "name": "Blackcliff Longsword",
+    "type": "Sword",
+    "rarity": 4
+  },
+  {
+    "id": 14408,
+    "name": "Blackcliff Agate",
+    "type": "Catalyst",
+    "rarity": 4
+  },
+  {
+    "id": 15502,
+    "name": "Amos' Bow",
+    "type": "Bow",
+    "rarity": 5
+  },
+  {
+    "id": 13424,
+    "name": "Ballad of the Fjords",
+    "type": "Polearm",
+    "rarity": 4
+  },
+  {
+    "id": 14426,
+    "name": "Ballad of the Boundless Blue",
+    "type": "Catalyst",
+    "rarity": 4
+  },
+  {
+    "id": 14511,
+    "name": "A Thousand Floating Dreams",
+    "type": "Catalyst",
+    "rarity": 5
+  },
+  {
+    "id": 12408,
+    "name": "Blackcliff Slasher",
+    "type": "Claymore",
+    "rarity": 4
+  },
+  {
+    "id": 14433,
+    "name": "Blackmarrow Lantern",
+    "type": "Catalyst",
+    "rarity": 4
+  },
+  {
+    "id": 12436,
+    "name": "Blade of Atonement",
+    "type": "Claymore",
+    "rarity": 4
+  },
+  {
+    "id": 14427,
+    "name": "Ash-Graven Drinking Horn",
+    "type": "Catalyst",
+    "rarity": 4
+  },
+  {
+    "id": 15408,
+    "name": "Blackcliff Warbow",
+    "type": "Bow",
+    "rarity": 4
+  },
+  {
+    "id": 13404,
+    "name": "Blackcliff Pole",
+    "type": "Polearm",
+    "rarity": 4
+  },
+  {
+    "id": 14513,
+    "name": "Cashflow Supervision",
+    "type": "Catalyst",
+    "rarity": 5
+  },
+  {
+    "id": 11432,
+    "name": "Calamity of Eshu",
+    "type": "Sword",
+    "rarity": 4
+  },
+  {
+    "id": 15431,
+    "name": "Chain Breaker",
+    "type": "Bow",
+    "rarity": 4
+  },
+  {
+    "id": 13507,
+    "name": "Calamity Queller",
+    "type": "Polearm",
+    "rarity": 5
+  },
+  {
+    "id": 11415,
+    "name": "Cinnabar Spindle",
+    "type": "Sword",
+    "rarity": 4
+  },
+  {
+    "id": 13303,
+    "name": "Black Tassel",
+    "type": "Polearm",
+    "rarity": 3
+  },
+  {
+    "id": 11301,
+    "name": "Cool Steel",
+    "type": "Sword",
+    "rarity": 3
+  },
+  {
+    "id": 13516,
+    "name": "Bloodsoaked Ruins",
+    "type": "Polearm",
+    "rarity": 5
+  },
+  {
+    "id": 12302,
+    "name": "Bloodtainted Greatsword",
+    "type": "Claymore",
+    "rarity": 3
+  },
+  {
+    "id": 15436,
+    "name": "Covenant of Frost and Snow",
+    "type": "Bow",
+    "rarity": 4
+  },
+  {
+    "id": 14515,
+    "name": "Crane's Echoing Call",
+    "type": "Catalyst",
+    "rarity": 5
+  },
+  {
+    "id": 14435,
+    "name": "Clash of Kings",
+    "type": "Catalyst",
+    "rarity": 4
+  },
+  {
+    "id": 15407,
+    "name": "Compound Bow",
+    "type": "Bow",
+    "rarity": 4
+  },
+  {
+    "id": 13512,
+    "name": "Crimson Moon's Semblance",
+    "type": "Polearm",
+    "rarity": 5
+  },
+  {
+    "id": 15426,
+    "name": "Cloudforged",
+    "type": "Bow",
+    "rarity": 4
+  },
+  {
+    "id": 14413,
+    "name": "Dodoco Tales",
+    "type": "Catalyst",
+    "rarity": 4
+  },
+  {
+    "id": 13517,
+    "name": "Disaster and Remorse",
+    "type": "Polearm",
+    "rarity": 5
+  },
+  {
+    "id": 13403,
+    "name": "Crescent Pike",
+    "type": "Polearm",
+    "rarity": 4
+  },
+  {
+    "id": 14434,
+    "name": "Dawning Frost",
+    "type": "Catalyst",
+    "rarity": 4
+  },
+  {
+    "id": 13409,
+    "name": "Dragonspine Spear",
+    "type": "Polearm",
+    "rarity": 4
+  },
+  {
+    "id": 13405,
+    "name": "Deathmatch",
+    "type": "Polearm",
+    "rarity": 4
+  },
+  {
+    "id": 12305,
+    "name": "Debate Club",
+    "type": "Claymore",
+    "rarity": 3
+  },
+  {
+    "id": 13426,
+    "name": "Dialogues of the Desert Sages",
+    "type": "Polearm",
+    "rarity": 4
+  },
+  {
+    "id": 12431,
+    "name": "Earth Shaker",
+    "type": "Claymore",
+    "rarity": 4
+  },
+  {
+    "id": 13401,
+    "name": "Dragon's Bane",
+    "type": "Polearm",
+    "rarity": 4
+  },
+  {
+    "id": 11101,
+    "name": "Dull Blade",
+    "type": "Sword",
+    "rarity": 1
+  },
+  {
+    "id": 15503,
+    "name": "Elegy for the End",
+    "type": "Bow",
+    "rarity": 5
+  },
+  {
+    "id": 15418,
+    "name": "End of the Line",
+    "type": "Bow",
+    "rarity": 4
+  },
+  {
+    "id": 14432,
+    "name": "Etherlight Spindlelute",
+    "type": "Catalyst",
+    "rarity": 4
+  },
+  {
+    "id": 11436,
+    "name": "Emberwell",
+    "type": "Sword",
+    "rarity": 4
+  },
+  {
+    "id": 11521,
+    "name": "Exaiphanes Blade",
+    "type": "Sword",
+    "rarity": 5
+  },
+  {
+    "id": 14506,
+    "name": "Everlasting Moonglow",
+    "type": "Catalyst",
+    "rarity": 5
+  },
+  {
+    "id": 13407,
+    "name": "Favonius Lance",
+    "type": "Polearm",
+    "rarity": 4
+  },
+  {
+    "id": 12401,
+    "name": "Favonius Greatsword",
+    "type": "Claymore",
+    "rarity": 4
+  },
+  {
+    "id": 13509,
+    "name": "Engulfing Lightning",
+    "type": "Polearm",
+    "rarity": 5
+  },
+  {
+    "id": 11304,
+    "name": "Dark Iron Sword",
+    "type": "Sword",
+    "rarity": 3
+  },
+  {
+    "id": 14304,
+    "name": "Emerald Orb",
+    "type": "Catalyst",
+    "rarity": 3
+  },
+  {
+    "id": 14409,
+    "name": "Eye of Perception",
+    "type": "Catalyst",
+    "rarity": 4
+  },
+  {
+    "id": 14436,
+    "name": "Echoes of the Heart",
+    "type": "Catalyst",
+    "rarity": 4
+  },
+  {
+    "id": 11401,
+    "name": "Favonius Sword",
+    "type": "Sword",
+    "rarity": 4
+  },
+  {
+    "id": 15401,
+    "name": "Favonius Warbow",
+    "type": "Bow",
+    "rarity": 4
+  },
+  {
+    "id": 15411,
+    "name": "Fading Twilight",
+    "type": "Bow",
+    "rarity": 4
+  },
+  {
+    "id": 14401,
+    "name": "Favonius Codex",
+    "type": "Catalyst",
+    "rarity": 4
+  },
+  {
+    "id": 11425,
+    "name": "Finale of the Deep",
+    "type": "Sword",
+    "rarity": 4
+  },
+  {
+    "id": 11305,
+    "name": "Fillet Blade",
+    "type": "Sword",
+    "rarity": 3
+  },
+  {
+    "id": 11413,
+    "name": "Festering Desire",
+    "type": "Sword",
+    "rarity": 4
+  },
+  {
+    "id": 12432,
+    "name": "Flame-Forged Insight",
+    "type": "Claymore",
+    "rarity": 4
+  },
+  {
+    "id": 11426,
+    "name": "Fleuve Cendre Ferryman",
+    "type": "Sword",
+    "rarity": 4
+  },
+  {
+    "id": 12513,
+    "name": "Fang of the Mountain King",
+    "type": "Claymore",
+    "rarity": 5
+  },
+  {
+    "id": 13431,
+    "name": "Footprint of the Rainbow",
+    "type": "Polearm",
+    "rarity": 4
+  },
+  {
+    "id": 11431,
+    "name": "Flute of Ezpitzal",
+    "type": "Sword",
+    "rarity": 4
+  },
+  {
+    "id": 12417,
+    "name": "Forest Regalia",
+    "type": "Claymore",
+    "rarity": 4
+  },
+  {
+    "id": 12435,
+    "name": "Forged by the Golden Melody",
+    "type": "Claymore",
+    "rarity": 4
+  },
+  {
+    "id": 14425,
+    "name": "Flowing Purity",
+    "type": "Catalyst",
+    "rarity": 4
+  },
+  {
+    "id": 15430,
+    "name": "Flower-Wreathed Feathers",
+    "type": "Bow",
+    "rarity": 4
+  },
+  {
+    "id": 13435,
+    "name": "Frostbreath",
+    "type": "Polearm",
+    "rarity": 4
+  },
+  {
+    "id": 14412,
+    "name": "Frostbearer",
+    "type": "Catalyst",
+    "rarity": 4
+  },
+  {
+    "id": 11503,
+    "name": "Freedom-Sworn",
+    "type": "Sword",
+    "rarity": 5
+  },
+  {
+    "id": 12430,
+    "name": "Fruitful Hook",
+    "type": "Claymore",
+    "rarity": 4
+  },
+  {
+    "id": 14417,
+    "name": "Fruit of Fulfillment",
+    "type": "Catalyst",
+    "rarity": 4
+  },
+  {
+    "id": 12515,
+    "name": "Gest of the Mighty Wolf",
+    "type": "Claymore",
+    "rarity": 5
+  },
+  {
+    "id": 13515,
+    "name": "Fractured Halo",
+    "type": "Polearm",
+    "rarity": 5
+  },
+  {
+    "id": 14414,
+    "name": "Hakushin Ring",
+    "type": "Catalyst",
+    "rarity": 4
+  },
+  {
+    "id": 15516,
+    "name": "Golden Frostbound Oath",
+    "type": "Bow",
+    "rarity": 5
+  },
+  {
+    "id": 15414,
+    "name": "Hamayumi",
+    "type": "Bow",
+    "rarity": 4
+  },
+  {
+    "id": 11302,
+    "name": "Harbinger of Dawn",
+    "type": "Sword",
+    "rarity": 3
+  },
+  {
+    "id": 11510,
+    "name": "Haran Geppaku Futsu",
+    "type": "Sword",
+    "rarity": 5
+  },
+  {
+    "id": 15101,
+    "name": "Hunter's Bow",
+    "type": "Bow",
+    "rarity": 1
+  },
+  {
+    "id": 15511,
+    "name": "Hunter's Path",
+    "type": "Bow",
+    "rarity": 5
+  },
+  {
+    "id": 13302,
+    "name": "Halberd",
+    "type": "Polearm",
+    "rarity": 3
+  },
+  {
+    "id": 12301,
+    "name": "Ferrous Shadow",
+    "type": "Claymore",
+    "rarity": 3
+  },
+  {
+    "id": 13201,
+    "name": "Iron Point",
+    "type": "Polearm",
+    "rarity": 2
+  },
+  {
+    "id": 15435,
+    "name": "Jade Vista",
+    "type": "Bow",
+    "rarity": 4
+  },
+  {
+    "id": 14509,
+    "name": "Kagura's Verity",
+    "type": "Catalyst",
+    "rarity": 5
+  },
+  {
+    "id": 15419,
+    "name": "Ibis Piercer",
+    "type": "Bow",
+    "rarity": 4
+  },
+  {
+    "id": 12414,
+    "name": "Katsuragikiri Nagamasa",
+    "type": "Claymore",
+    "rarity": 4
+  },
+  {
+    "id": 11416,
+    "name": "Kagotsurube Isshin",
+    "type": "Sword",
+    "rarity": 4
+  },
+  {
+    "id": 11435,
+    "name": "Heretic's Molten Blade",
+    "type": "Sword",
+    "rarity": 4
+  },
+  {
+    "id": 11511,
+    "name": "Key of Khaj-Nisut",
+    "type": "Sword",
+    "rarity": 5
+  },
+  {
+    "id": 11407,
+    "name": "Iron Sting",
+    "type": "Sword",
+    "rarity": 4
+  },
+  {
+    "id": 13414,
+    "name": "Kitain Cross Spear",
+    "type": "Polearm",
+    "rarity": 4
+  },
+  {
+    "id": 11512,
+    "name": "Light of Foliar Incision",
+    "type": "Sword",
+    "rarity": 5
+  },
+  {
+    "id": 14505,
+    "name": "Jadefall's Splendor",
+    "type": "Catalyst",
+    "rarity": 5
+  },
+  {
+    "id": 13513,
+    "name": "Lumidouce Elegy",
+    "type": "Polearm",
+    "rarity": 5
+  },
+  {
+    "id": 13406,
+    "name": "Lithic Spear",
+    "type": "Polearm",
+    "rarity": 4
+  },
+  {
+    "id": 12410,
+    "name": "Lithic Blade",
+    "type": "Claymore",
+    "rarity": 4
+  },
+  {
+    "id": 14502,
+    "name": "Lost Prayer to the Sacred Winds",
+    "type": "Catalyst",
+    "rarity": 5
+  },
+  {
+    "id": 12412,
+    "name": "Luxurious Sea-Lord",
+    "type": "Claymore",
+    "rarity": 4
+  },
+  {
+    "id": 11519,
+    "name": "Lightbearing Moonshard",
+    "type": "Sword",
+    "rarity": 5
+  },
+  {
+    "id": 14301,
+    "name": "Magic Guide",
+    "type": "Catalyst",
+    "rarity": 3
+  },
+  {
+    "id": 15417,
+    "name": "King's Squire",
+    "type": "Bow",
+    "rarity": 4
+  },
+  {
+    "id": 12415,
+    "name": "Makhaira Aquamarine",
+    "type": "Claymore",
+    "rarity": 4
+  },
+  {
+    "id": 12418,
+    "name": "Mailed Flower",
+    "type": "Claymore",
+    "rarity": 4
+  },
+  {
+    "id": 11405,
+    "name": "Lion's Roar",
+    "type": "Sword",
+    "rarity": 4
+  },
+  {
+    "id": 14407,
+    "name": "Mappa Mare",
+    "type": "Catalyst",
+    "rarity": 4
+  },
+  {
+    "id": 12433,
+    "name": "Master Key",
+    "type": "Claymore",
+    "rarity": 4
+  },
+  {
+    "id": 14504,
+    "name": "Memory of Dust",
+    "type": "Catalyst",
+    "rarity": 5
+  },
+  {
+    "id": 15412,
+    "name": "Mitternachts Waltz",
+    "type": "Bow",
+    "rarity": 4
+  },
+  {
+    "id": 15305,
+    "name": "Messenger",
+    "type": "Bow",
+    "rarity": 3
+  },
+  {
+    "id": 15416,
+    "name": "Mouun's Moon",
+    "type": "Bow",
+    "rarity": 4
+  },
+  {
+    "id": 14520,
+    "name": "Nightweaver's Looking Glass",
+    "type": "Catalyst",
+    "rarity": 5
+  },
+  {
+    "id": 12201,
+    "name": "Old Merc's Pal",
+    "type": "Claymore",
+    "rarity": 2
+  },
+  {
+    "id": 13419,
+    "name": "Missive Windspear",
+    "type": "Polearm",
+    "rarity": 4
+  },
+  {
+    "id": 14303,
+    "name": "Otherworldly Story",
+    "type": "Catalyst",
+    "rarity": 3
+  },
+  {
+    "id": 11509,
+    "name": "Mistsplitter Reforged",
+    "type": "Sword",
+    "rarity": 5
+  },
+  {
+    "id": 13417,
+    "name": "Moonpiercer",
+    "type": "Polearm",
+    "rarity": 4
+  },
+  {
+    "id": 14522,
+    "name": "Nocturne's Curtain Call",
+    "type": "Catalyst",
+    "rarity": 5
+  },
+  {
+    "id": 11434,
+    "name": "Moonweaver's Dawn",
+    "type": "Sword",
+    "rarity": 4
+  },
+  {
+    "id": 13430,
+    "name": "Mountain-Bracing Bolt",
+    "type": "Polearm",
+    "rarity": 4
+  },
+  {
+    "id": 14201,
+    "name": "Pocket Grimoire",
+    "type": "Catalyst",
+    "rarity": 2
+  },
+  {
+    "id": 12427,
+    "name": "Portable Power Saw",
+    "type": "Claymore",
+    "rarity": 4
+  },
+  {
+    "id": 15507,
+    "name": "Polar Star",
+    "type": "Bow",
+    "rarity": 5
+  },
+  {
+    "id": 11420,
+    "name": "Prized Isshin Blade",
+    "type": "Sword",
+    "rarity": 4
+  },
+  {
+    "id": 13505,
+    "name": "Primordial Jade Winged-Spear",
+    "type": "Polearm",
+    "rarity": 5
+  },
+  {
+    "id": 14415,
+    "name": "Oathsworn Eye",
+    "type": "Catalyst",
+    "rarity": 4
+  },
+  {
+    "id": 11419,
+    "name": "Prized Isshin Blade",
+    "type": "Sword",
+    "rarity": 4
+  },
+  {
+    "id": 13427,
+    "name": "Prospector's Drill",
+    "type": "Polearm",
+    "rarity": 4
+  },
+  {
+    "id": 13433,
+    "name": "Prospector's Shovel",
+    "type": "Polearm",
+    "rarity": 4
+  },
+  {
+    "id": 11505,
+    "name": "Primordial Jade Cutter",
+    "type": "Sword",
+    "rarity": 5
+  },
+  {
+    "id": 14406,
+    "name": "Prototype Amber",
+    "type": "Catalyst",
+    "rarity": 4
+  },
+  {
+    "id": 15415,
+    "name": "Predator",
+    "type": "Bow",
+    "rarity": 4
+  },
+  {
+    "id": 11406,
+    "name": "Prototype Rancour",
+    "type": "Sword",
+    "rarity": 4
+  },
+  {
+    "id": 15434,
+    "name": "Rainbow Serpent's Rain Bow",
+    "type": "Bow",
+    "rarity": 4
+  },
+  {
+    "id": 15427,
+    "name": "Range Gauge",
+    "type": "Bow",
+    "rarity": 4
+  },
+  {
+    "id": 12405,
+    "name": "Rainslasher",
+    "type": "Claymore",
+    "rarity": 4
+  },
+  {
+    "id": 11516,
+    "name": "Peak Patrol Song",
+    "type": "Sword",
+    "rarity": 5
+  },
+  {
+    "id": 15301,
+    "name": "Raven Bow",
+    "type": "Bow",
+    "rarity": 3
+  },
+  {
+    "id": 15406,
+    "name": "Prototype Crescent",
+    "type": "Bow",
+    "rarity": 4
+  },
+  {
+    "id": 12406,
+    "name": "Prototype Archaic",
+    "type": "Claymore",
+    "rarity": 4
+  },
+  {
+    "id": 13402,
+    "name": "Prototype Starglitter",
+    "type": "Polearm",
+    "rarity": 4
+  },
+  {
+    "id": 12510,
+    "name": "Redhorn Stonethresher",
+    "type": "Claymore",
+    "rarity": 5
+  },
+  {
+    "id": 11421,
+    "name": "Prized Isshin Blade",
+    "type": "Sword",
+    "rarity": 4
+  },
+  {
+    "id": 15303,
+    "name": "Recurve Bow",
+    "type": "Bow",
+    "rarity": 3
+  },
+  {
+    "id": 11404,
+    "name": "Royal Longsword",
+    "type": "Sword",
+    "rarity": 4
+  },
+  {
+    "id": 14521,
+    "name": "Reliquary of Truth",
+    "type": "Catalyst",
+    "rarity": 5
+  },
+  {
+    "id": 13425,
+    "name": "Rightful Reward",
+    "type": "Polearm",
+    "rarity": 4
+  },
+  {
+    "id": 12404,
+    "name": "Royal Greatsword",
+    "type": "Claymore",
+    "rarity": 4
+  },
+  {
+    "id": 15404,
+    "name": "Royal Bow",
+    "type": "Bow",
+    "rarity": 4
+  },
+  {
+    "id": 13434,
+    "name": "Sacrificer's Staff",
+    "type": "Polearm",
+    "rarity": 4
+  },
+  {
+    "id": 15403,
+    "name": "Sacrificial Bow",
+    "type": "Bow",
+    "rarity": 4
+  },
+  {
+    "id": 14403,
+    "name": "Sacrificial Fragments",
+    "type": "Catalyst",
+    "rarity": 4
+  },
+  {
+    "id": 11417,
+    "name": "Sapwood Blade",
+    "type": "Sword",
+    "rarity": 4
+  },
+  {
+    "id": 15424,
+    "name": "Scion of the Blazing Sun",
+    "type": "Bow",
+    "rarity": 4
+  },
+  {
+    "id": 15405,
+    "name": "Rust",
+    "type": "Bow",
+    "rarity": 4
+  },
+  {
+    "id": 12403,
+    "name": "Sacrificial Greatsword",
+    "type": "Claymore",
+    "rarity": 4
+  },
+  {
+    "id": 15201,
+    "name": "Seasoned Hunter's Bow",
+    "type": "Bow",
+    "rarity": 2
+  },
+  {
+    "id": 11403,
+    "name": "Sacrificial Sword",
+    "type": "Sword",
+    "rarity": 4
+  },
+  {
+    "id": 14424,
+    "name": "Sacrificial Jade",
+    "type": "Catalyst",
+    "rarity": 4
+  },
+  {
+    "id": 15432,
+    "name": "Sequence of Solitude",
+    "type": "Bow",
+    "rarity": 4
+  },
+  {
+    "id": 13408,
+    "name": "Royal Spear",
+    "type": "Polearm",
+    "rarity": 4
+  },
+  {
+    "id": 12409,
+    "name": "Serpent Spine",
+    "type": "Claymore",
+    "rarity": 4
+  },
+  {
+    "id": 15513,
+    "name": "Silvershower Heartstrings",
+    "type": "Bow",
+    "rarity": 5
+  },
+  {
+    "id": 15302,
+    "name": "Sharpshooter's Oath",
+    "type": "Bow",
+    "rarity": 3
+  },
+  {
+    "id": 11201,
+    "name": "Silver Sword",
+    "type": "Sword",
+    "rarity": 2
+  },
+  {
+    "id": 14404,
+    "name": "Royal Grimoire",
+    "type": "Catalyst",
+    "rarity": 4
+  },
+  {
+    "id": 12306,
+    "name": "Skyrider Greatsword",
+    "type": "Claymore",
+    "rarity": 3
+  },
+  {
+    "id": 11433,
+    "name": "Serenity's Call",
+    "type": "Sword",
+    "rarity": 4
+  },
+  {
+    "id": 14431,
+    "name": "Ring of Yaxche",
+    "type": "Catalyst",
+    "rarity": 4
+  },
+  {
+    "id": 14501,
+    "name": "Skyward Atlas",
+    "type": "Catalyst",
+    "rarity": 5
+  },
+  {
+    "id": 12501,
+    "name": "Skyward Pride",
+    "type": "Claymore",
+    "rarity": 5
+  },
+  {
+    "id": 11502,
+    "name": "Skyward Blade",
+    "type": "Sword",
+    "rarity": 5
+  },
+  {
+    "id": 12411,
+    "name": "Snow-Tombed Starsilver",
+    "type": "Claymore",
+    "rarity": 4
+  },
+  {
+    "id": 11306,
+    "name": "Skyrider Sword",
+    "type": "Sword",
+    "rarity": 3
+  },
+  {
+    "id": 15501,
+    "name": "Skyward Harp",
+    "type": "Bow",
+    "rarity": 5
+  },
+  {
+    "id": 15425,
+    "name": "Song of Stillness",
+    "type": "Bow",
+    "rarity": 4
+  },
+  {
+    "id": 13502,
+    "name": "Skyward Spine",
+    "type": "Polearm",
+    "rarity": 5
+  },
+  {
+    "id": 15304,
+    "name": "Slingshot",
+    "type": "Bow",
+    "rarity": 3
+  },
+  {
+    "id": 13501,
+    "name": "Staff of Homa",
+    "type": "Polearm",
+    "rarity": 5
+  },
+  {
+    "id": 14405,
+    "name": "Solar Pearl",
+    "type": "Catalyst",
+    "rarity": 4
+  },
+  {
+    "id": 12503,
+    "name": "Song of Broken Pines",
+    "type": "Claymore",
+    "rarity": 5
+  },
+  {
+    "id": 13511,
+    "name": "Staff of the Scarlet Sands",
+    "type": "Polearm",
+    "rarity": 5
+  },
+  {
+    "id": 13436,
+    "name": "Song of the Vigil",
+    "type": "Polearm",
+    "rarity": 4
+  },
+  {
+    "id": 11430,
+    "name": "Sturdy Bone",
+    "type": "Sword",
+    "rarity": 4
+  },
+  {
+    "id": 11513,
+    "name": "Splendor of Tranquil Waters",
+    "type": "Sword",
+    "rarity": 5
+  },
+  {
+    "id": 11504,
+    "name": "Summit Shaper",
+    "type": "Sword",
+    "rarity": 5
+  },
+  {
+    "id": 14516,
+    "name": "Surf's Up",
+    "type": "Catalyst",
+    "rarity": 5
+  },
+  {
+    "id": 11412,
+    "name": "Sword of Descension",
+    "type": "Sword",
+    "rarity": 4
+  },
+  {
+    "id": 11428,
+    "name": "Sword of Narzissenkreuz",
+    "type": "Sword",
+    "rarity": 4
+  },
+  {
+    "id": 12424,
+    "name": "Talking Stick",
+    "type": "Claymore",
+    "rarity": 4
+  },
+  {
+    "id": 14517,
+    "name": "Starcaller's Watch",
+    "type": "Catalyst",
+    "rarity": 5
+  },
+  {
+    "id": 13514,
+    "name": "Symphonist of Scents",
+    "type": "Polearm",
+    "rarity": 5
+  },
+  {
+    "id": 12402,
+    "name": "The Bell",
+    "type": "Claymore",
+    "rarity": 4
+  },
+  {
+    "id": 14518,
+    "name": "Sunny Morning Sleep-In",
+    "type": "Catalyst",
+    "rarity": 5
+  },
+  {
+    "id": 15433,
+    "name": "Snare Hook",
+    "type": "Bow",
+    "rarity": 4
+  },
+  {
+    "id": 13432,
+    "name": "Tamayuratei no Ohanashi",
+    "type": "Polearm",
+    "rarity": 4
+  },
+  {
+    "id": 11409,
+    "name": "The Black Sword",
+    "type": "Sword",
+    "rarity": 4
+  },
+  {
+    "id": 13415,
+    "name": "\"The Catch\"",
+    "type": "Polearm",
+    "rarity": 4
+  },
+  {
+    "id": 15515,
+    "name": "The Daybreak Chronicles",
+    "type": "Bow",
+    "rarity": 5
+  },
+  {
+    "id": 11427,
+    "name": "The Dockhand's Assistant",
+    "type": "Sword",
+    "rarity": 4
+  },
+  {
+    "id": 11410,
+    "name": "The Alley Flash",
+    "type": "Sword",
+    "rarity": 4
+  },
+  {
+    "id": 11402,
+    "name": "The Flute",
+    "type": "Sword",
+    "rarity": 4
+  },
+  {
+    "id": 12504,
+    "name": "The Unforged",
+    "type": "Claymore",
+    "rarity": 5
+  },
+  {
+    "id": 15402,
+    "name": "The Stringless",
+    "type": "Bow",
+    "rarity": 4
+  },
+  {
+    "id": 14402,
+    "name": "The Widsith",
+    "type": "Catalyst",
+    "rarity": 4
+  },
+  {
+    "id": 15509,
+    "name": "Thundering Pulse",
+    "type": "Bow",
+    "rarity": 5
+  },
+  {
+    "id": 15512,
+    "name": "The First Great Magic",
+    "type": "Bow",
+    "rarity": 5
+  },
+  {
+    "id": 14514,
+    "name": "Tome of the Eternal Flow",
+    "type": "Catalyst",
+    "rarity": 5
+  },
+  {
+    "id": 14305,
+    "name": "Twin Nephrite",
+    "type": "Catalyst",
+    "rarity": 3
+  },
+  {
+    "id": 14512,
+    "name": "Tulaytullah's Remembrance",
+    "type": "Catalyst",
+    "rarity": 5
+  },
+  {
+    "id": 14302,
+    "name": "Thrilling Tales of Dragon Slayers",
+    "type": "Catalyst",
+    "rarity": 3
+  },
+  {
+    "id": 15409,
+    "name": "The Viridescent Hunt",
+    "type": "Bow",
+    "rarity": 4
+  },
+  {
+    "id": 11514,
+    "name": "Uraku Misugiri",
+    "type": "Sword",
+    "rarity": 5
+  },
+  {
+    "id": 12425,
+    "name": "Tidal Shadow",
+    "type": "Claymore",
+    "rarity": 4
+  },
+  {
+    "id": 12512,
+    "name": "Verdict",
+    "type": "Claymore",
+    "rarity": 5
+  },
+  {
+    "id": 11422,
+    "name": "Toukabou Shigure",
+    "type": "Sword",
+    "rarity": 4
+  },
+  {
+    "id": 13504,
+    "name": "Vortex Vanquisher",
+    "type": "Polearm",
+    "rarity": 5
+  },
+  {
+    "id": 12426,
+    "name": "\"Ultimate Overlord's Mega Magic Sword\"",
+    "type": "Claymore",
+    "rarity": 4
+  },
+  {
+    "id": 14416,
+    "name": "Wandering Evenstar",
+    "type": "Catalyst",
+    "rarity": 4
+  },
+  {
+    "id": 11303,
+    "name": "Traveler's Handy Sword",
+    "type": "Sword",
+    "rarity": 3
+  },
+  {
+    "id": 12101,
+    "name": "Waster Greatsword",
+    "type": "Claymore",
+    "rarity": 1
+  },
+  {
+    "id": 13416,
+    "name": "Wavebreaker's Fin",
+    "type": "Polearm",
+    "rarity": 4
+  },
+  {
+    "id": 14430,
+    "name": "Waveriding Whirl",
+    "type": "Catalyst",
+    "rarity": 4
+  },
+  {
+    "id": 13301,
+    "name": "White Tassel",
+    "type": "Polearm",
+    "rarity": 3
+  },
+  {
+    "id": 14410,
+    "name": "Wine and Song",
+    "type": "Catalyst",
+    "rarity": 4
+  },
+  {
+    "id": 12303,
+    "name": "White Iron Greatsword",
+    "type": "Claymore",
+    "rarity": 3
+  },
+  {
+    "id": 11424,
+    "name": "Wolf-Fang",
+    "type": "Sword",
+    "rarity": 4
+  },
+  {
+    "id": 12407,
+    "name": "Whiteblind",
+    "type": "Claymore",
+    "rarity": 4
+  },
+  {
+    "id": 11520,
+    "name": "Whitelake Frostfeather",
+    "type": "Sword",
+    "rarity": 5
+  },
+  {
+    "id": 14519,
+    "name": "Vivid Notions",
+    "type": "Catalyst",
+    "rarity": 5
+  },
+  {
+    "id": 15413,
+    "name": "Windblume Ode",
+    "type": "Bow",
+    "rarity": 4
+  },
+  {
+    "id": 12502,
+    "name": "Wolf's Gravestone",
+    "type": "Claymore",
+    "rarity": 5
+  },
+  {
+    "id": 11418,
+    "name": "Xiphos' Moonlight",
+    "type": "Sword",
+    "rarity": 4
+  }
+]

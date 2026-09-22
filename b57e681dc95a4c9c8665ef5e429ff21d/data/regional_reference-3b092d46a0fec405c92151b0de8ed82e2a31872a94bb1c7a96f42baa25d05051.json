@@ -1,0 +1,182 @@
+{
+  "snapshot": "Luna VI",
+  "maxima": [
+    [
+      "Mondstadt:",
+      null,
+      17,
+      51
+    ],
+    [
+      "Liyue:",
+      null,
+      47,
+      81
+    ],
+    [
+      "Visitors on the Icy Mountain",
+      234,
+      16,
+      32
+    ],
+    [
+      "Thunder and Eternity - Series I",
+      null,
+      35,
+      21
+    ],
+    [
+      "Thunder and Eternity - Series II",
+      null,
+      29,
+      7
+    ],
+    [
+      "Chronicles of the Sea of Fog",
+      null,
+      16,
+      9
+    ],
+    [
+      "The Light of Day",
+      185,
+      18,
+      39
+    ],
+    [
+      "Chasmlighter",
+      248,
+      20,
+      36
+    ],
+    [
+      "Rainforest of Lore",
+      575,
+      45,
+      54
+    ],
+    [
+      "Gilded Desert - Series I",
+      354,
+      52,
+      52
+    ],
+    [
+      "Gilded Desert - Series II",
+      290,
+      37,
+      27
+    ],
+    [
+      "Blessed Hamada",
+      256,
+      26,
+      20
+    ],
+    [
+      "Dew-White Springs (I)",
+      344,
+      53,
+      42
+    ],
+    [
+      "Dew-White Springs (II)",
+      243,
+      28,
+      13
+    ],
+    [
+      "Dew-White Springs (III)",
+      207,
+      30,
+      13
+    ],
+    [
+      "Chenyu",
+      333,
+      63,
+      20
+    ],
+    [
+      "Rhapsodia",
+      151,
+      33,
+      7
+    ],
+    [
+      "Fire and Competition (I)",
+      411,
+      17,
+      null
+    ],
+    [
+      "Fire and Competition (II)",
+      202,
+      11,
+      null
+    ],
+    [
+      "Sacred Mountain",
+      217,
+      14,
+      null
+    ],
+    [
+      "Summer of Ash",
+      169,
+      32,
+      null
+    ],
+    [
+      "Wanderings (I)",
+      299,
+      13,
+      null
+    ],
+    [
+      "Wanderings (II)",
+      229,
+      7,
+      null
+    ],
+    [
+      "Demon Mountain",
+      222,
+      37,
+      4
+    ]
+  ],
+  "order": [
+    "Mondstadt:",
+    "Visitors on the Icy Mountain",
+    "Demon Mountain",
+    "Liyue:",
+    "Chasmlighter",
+    "Chenyu",
+    "Thunder and Eternity - Series I",
+    "Thunder and Eternity - Series II",
+    "Chronicles of the Sea of Fog",
+    "The Light of Day",
+    "Rainforest of Lore",
+    "Gilded Desert - Series I",
+    "Gilded Desert - Series II",
+    "Blessed Hamada",
+    "Dew-White Springs (I)",
+    "Dew-White Springs (II)",
+    "Dew-White Springs (III)",
+    "Rhapsodia",
+    "Fire and Competition (I)",
+    "Fire and Competition (II)",
+    "Sacred Mountain",
+    "Summer of Ash",
+    "Wanderings (I)",
+    "Wanderings (II)",
+    "Unfettered Crescent",
+    "Snezhnaya:"
+  ],
+  "sources": {
+    "chests": "https://genshin-impact.fandom.com/wiki/Chest",
+    "trials": "https://genshin-impact.fandom.com/wiki/Time_Trial_Challenge",
+    "seelie": "https://genshin-impact.fandom.com/wiki/Seelie"
+  }
+}

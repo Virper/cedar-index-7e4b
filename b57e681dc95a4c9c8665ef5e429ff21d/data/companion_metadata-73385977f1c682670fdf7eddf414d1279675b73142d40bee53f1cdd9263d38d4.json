@@ -1,0 +1,576 @@
+{
+  "10000148": {
+    "region": "Teyvat",
+    "name": "Alyosha"
+  },
+  "10000021": {
+    "region": "Mondstadt",
+    "name": "Amber",
+    "release": "2020-09-28"
+  },
+  "10000062": {
+    "region": "",
+    "name": "Aloy",
+    "release": "2021-10-13"
+  },
+  "10000005": {
+    "region": "",
+    "name": "Aether"
+  },
+  "10000038": {
+    "region": "Mondstadt",
+    "name": "Albedo",
+    "release": "2020-12-23"
+  },
+  "10000082": {
+    "region": "Liyue",
+    "name": "Baizhu",
+    "release": "2023-05-02"
+  },
+  "10000121": {
+    "region": "Nod-Krai",
+    "name": "Aino"
+  },
+  "10000104": {
+    "region": "Natlan",
+    "name": "Chasca"
+  },
+  "10000096": {
+    "region": "Snezhnaya",
+    "name": "Arlecchino",
+    "release": "2024-04-24"
+  },
+  "10000057": {
+    "region": "Inazuma",
+    "name": "Arataki Itto"
+  },
+  "10000088": {
+    "region": "Fontaine",
+    "name": "Charlotte",
+    "release": "2023-11-08"
+  },
+  "10000090": {
+    "region": "Fontaine",
+    "name": "Chevreuse",
+    "release": "2024-01-09"
+  },
+  "10000072": {
+    "region": "Sumeru",
+    "name": "Candace",
+    "release": "2022-09-28"
+  },
+  "10000032": {
+    "region": "Mondstadt",
+    "name": "Bennett",
+    "release": "2020-09-28"
+  },
+  "10000098": {
+    "region": "Fontaine",
+    "name": "Clorinde",
+    "release": "2024-06-05"
+  },
+  "10000107": {
+    "region": "Natlan",
+    "name": "Citlali"
+  },
+  "10000094": {
+    "region": "Inazuma",
+    "name": "Chiori",
+    "release": "2024-03-13"
+  },
+  "10000079": {
+    "region": "Sumeru",
+    "name": "Dehya",
+    "release": "2023-03-01"
+  },
+  "10000014": {
+    "region": "Mondstadt",
+    "name": "Barbara",
+    "release": "2020-09-28"
+  },
+  "10000024": {
+    "region": "Liyue",
+    "name": "Beidou",
+    "release": "2020-09-28"
+  },
+  "10000036": {
+    "region": "Liyue",
+    "name": "Chongyun",
+    "release": "2020-09-28"
+  },
+  "10000071": {
+    "region": "Sumeru",
+    "name": "Cyno",
+    "release": "2022-09-28"
+  },
+  "10000016": {
+    "region": "Mondstadt",
+    "name": "Diluc",
+    "release": "2020-09-28"
+  },
+  "10000078": {
+    "region": "Sumeru",
+    "name": "Alhaitham",
+    "release": "2023-01-18"
+  },
+  "10000039": {
+    "region": "Mondstadt",
+    "name": "Diona",
+    "release": "2020-11-11"
+  },
+  "10000068": {
+    "region": "Sumeru",
+    "name": "Dori",
+    "release": "2022-09-09"
+  },
+  "10000067": {
+    "region": "Sumeru",
+    "name": "Collei",
+    "release": "2022-08-24"
+  },
+  "10000099": {
+    "region": "Fontaine",
+    "name": "Emilie",
+    "release": "2022-08-06"
+  },
+  "10000076": {
+    "region": "Sumeru",
+    "name": "Faruzan",
+    "release": "2022-12-07"
+  },
+  "10000123": {
+    "region": "Mondstadt",
+    "name": "Durin"
+  },
+  "10000031": {
+    "region": "Mondstadt",
+    "name": "Fischl",
+    "release": "2020-09-28"
+  },
+  "10000112": {
+    "region": "Fontaine",
+    "name": "Escoffier"
+  },
+  "10000125": {
+    "region": "Nod-Krai",
+    "name": "Columbina",
+    "release": "2026-01-14"
+  },
+  "10000089": {
+    "region": "Fontaine",
+    "name": "Furina",
+    "release": "2023-11-08"
+  },
+  "10000092": {
+    "region": "Liyue",
+    "name": "Gaming",
+    "release": "2024-01-31"
+  },
+  "10000085": {
+    "region": "Fontaine",
+    "name": "Freminet",
+    "release": "2023-09-06"
+  },
+  "10000051": {
+    "region": "Mondstadt",
+    "name": "Eula",
+    "release": "2021-05-18"
+  },
+  "10000115": {
+    "region": "Mondstadt",
+    "name": "Dahlia"
+  },
+  "10000046": {
+    "region": "Liyue",
+    "name": "Hu Tao",
+    "release": "2021-03-02"
+  },
+  "10000110": {
+    "region": "Natlan",
+    "name": "Iansan"
+  },
+  "10000120": {
+    "region": "Nod-Krai",
+    "name": "Flins"
+  },
+  "10000113": {
+    "region": "Natlan",
+    "name": "Ifa"
+  },
+  "10000116": {
+    "region": "Nod-Krai",
+    "name": "Ineffa"
+  },
+  "10000124": {
+    "region": "Nod-Krai",
+    "name": "Jahoda"
+  },
+  "10000127": {
+    "region": "Nod-Krai",
+    "name": "Illuga"
+  },
+  "10000003": {
+    "region": "Mondstadt",
+    "name": "Jean",
+    "release": "2020-09-28"
+  },
+  "10000015": {
+    "region": "Mondstadt",
+    "name": "Kaeya",
+    "release": "2020-09-28"
+  },
+  "10000081": {
+    "region": "Sumeru",
+    "name": "Kaveh",
+    "release": "2023-05-02"
+  },
+  "10000042": {
+    "region": "Liyue",
+    "name": "Keqing",
+    "release": "2020-09-28"
+  },
+  "10000100": {
+    "region": "Natlan",
+    "name": "Kachina",
+    "release": "2024-08-28"
+  },
+  "10000002": {
+    "region": "Inazuma",
+    "name": "Kamisato Ayaka",
+    "release": "2021-07-21"
+  },
+  "10000066": {
+    "region": "Inazuma",
+    "name": "Kamisato Ayato",
+    "release": "2022-03-30"
+  },
+  "10000037": {
+    "region": "Liyue",
+    "name": "Ganyu",
+    "release": "2021-01-12"
+  },
+  "10000055": {
+    "region": "Inazuma",
+    "name": "Gorou",
+    "release": "2021-12-14"
+  },
+  "10000065": {
+    "region": "Inazuma",
+    "name": "Kuki Shinobu",
+    "release": "2022-06-21"
+  },
+  "10000108": {
+    "region": "Liyue",
+    "name": "Lan Yan"
+  },
+  "10000119": {
+    "region": "Nod-Krai",
+    "name": "Lauma"
+  },
+  "10000056": {
+    "region": "Inazuma",
+    "name": "Kujou Sara",
+    "release": "2021-09-01"
+  },
+  "10000130": {
+    "region": "Nod-Krai",
+    "name": "Linnea"
+  },
+  "10000101": {
+    "region": "Natlan",
+    "name": "Kinich",
+    "release": "2024-09-18"
+  },
+  "10000061": {
+    "region": "Inazuma",
+    "name": "Kirara",
+    "release": "2023-05-24"
+  },
+  "10000129": {
+    "region": "Mondstadt",
+    "name": "Lohen"
+  },
+  "10000007": {
+    "region": "",
+    "name": "Lumine"
+  },
+  "10000006": {
+    "region": "Mondstadt",
+    "name": "Lisa",
+    "release": "2020-09-28"
+  },
+  "10000084": {
+    "region": "Fontaine",
+    "name": "Lyney",
+    "release": "2023-08-16"
+  },
+  "10000047": {
+    "region": "Inazuma",
+    "name": "Kaedehara Kazuha",
+    "release": "2021-06-29"
+  },
+  "10000083": {
+    "region": "Fontaine",
+    "name": "Lynette",
+    "release": "2023-08-16"
+  },
+  "10000117": {
+    "region": "",
+    "name": "Manekin"
+  },
+  "10000074": {
+    "region": "Sumeru",
+    "name": "Layla",
+    "release": "2022-11-02"
+  },
+  "10000029": {
+    "region": "Mondstadt",
+    "name": "Klee",
+    "release": "2020-10-20"
+  },
+  "10000073": {
+    "region": "Sumeru",
+    "name": "Nahida",
+    "release": "2022-11-02"
+  },
+  "10000041": {
+    "region": "Mondstadt",
+    "name": "Mona",
+    "release": "2020-09-28"
+  },
+  "10000080": {
+    "region": "Mondstadt",
+    "name": "Mika",
+    "release": "2023-03-21"
+  },
+  "10000106": {
+    "region": "Natlan",
+    "name": "Mavuika"
+  },
+  "10000070": {
+    "region": "Sumeru",
+    "name": "Nilou",
+    "release": "2022-10-14"
+  },
+  "10000091": {
+    "region": "Fontaine",
+    "name": "Navia",
+    "release": "2023-12-20"
+  },
+  "10000131": {
+    "region": "Teyvat",
+    "name": "Nicole"
+  },
+  "10000027": {
+    "region": "Liyue",
+    "name": "Ningguang",
+    "release": "2020-09-28"
+  },
+  "10000105": {
+    "region": "Natlan",
+    "name": "Ororon"
+  },
+  "10000034": {
+    "region": "Mondstadt",
+    "name": "Noelle",
+    "release": "2020-09-28"
+  },
+  "10000122": {
+    "region": "Nod-Krai",
+    "name": "Nefer"
+  },
+  "10000102": {
+    "region": "Natlan",
+    "name": "Mualani",
+    "release": "2024-08-28"
+  },
+  "10000035": {
+    "region": "Liyue",
+    "name": "Qiqi",
+    "release": "2020-09-28"
+  },
+  "10000052": {
+    "region": "Inazuma",
+    "name": "Raiden Shogun",
+    "release": "2021-09-01"
+  },
+  "10000132": {
+    "region": "Mondstadt",
+    "name": "Prune"
+  },
+  "10000118": {
+    "region": "",
+    "name": "Manekina"
+  },
+  "10000087": {
+    "region": "Fontaine",
+    "name": "Neuvillette",
+    "release": "2023-09-27"
+  },
+  "10000045": {
+    "region": "Mondstadt",
+    "name": "Rosaria",
+    "release": "2021-04-06"
+  },
+  "10000150": {
+    "region": "Teyvat",
+    "name": "Odette"
+  },
+  "10000097": {
+    "region": "Sumeru",
+    "name": "Sethos",
+    "release": "2024-06-05"
+  },
+  "10000043": {
+    "region": "Mondstadt",
+    "name": "Sucrose",
+    "release": "2020-09-28"
+  },
+  "10000054": {
+    "region": "Inazuma",
+    "name": "Sangonomiya Kokomi",
+    "release": "2021-09-21"
+  },
+  "10000059": {
+    "region": "Inazuma",
+    "name": "Shikanoin Heizou"
+  },
+  "10000133": {
+    "region": "Teyvat",
+    "name": "Sandrone"
+  },
+  "10000020": {
+    "region": "Mondstadt",
+    "name": "Razor",
+    "release": "2020-09-28"
+  },
+  "10000111": {
+    "region": "Natlan",
+    "name": "Varesa"
+  },
+  "10000114": {
+    "region": "Teyvat",
+    "name": "Skirk"
+  },
+  "10000050": {
+    "region": "Inazuma",
+    "name": "Thoma",
+    "release": "2021-11-02"
+  },
+  "10000063": {
+    "region": "Liyue",
+    "name": "Shenhe",
+    "release": "2022-01-05"
+  },
+  "10000022": {
+    "region": "Mondstadt",
+    "name": "Venti",
+    "release": "2020-09-28"
+  },
+  "10000075": {
+    "region": "Sumeru",
+    "name": "Wanderer",
+    "release": "2022-12-07"
+  },
+  "10000095": {
+    "region": "Fontaine",
+    "name": "Sigewinne",
+    "release": "2024-06-25"
+  },
+  "10000128": {
+    "region": "Mondstadt",
+    "name": "Varka"
+  },
+  "10000033": {
+    "region": "Snezhnaya",
+    "name": "Tartaglia",
+    "release": "2020-11-11"
+  },
+  "10000069": {
+    "region": "Sumeru",
+    "name": "Tighnari",
+    "release": "2022-08-24"
+  },
+  "10000086": {
+    "region": "Fontaine",
+    "name": "Wriothesley",
+    "release": "2023-10-17"
+  },
+  "10000093": {
+    "region": "Liyue",
+    "name": "Xianyun",
+    "release": "2024-01-31"
+  },
+  "10000053": {
+    "region": "Inazuma",
+    "name": "Sayu",
+    "release": "2021-08-10"
+  },
+  "10000103": {
+    "region": "Natlan",
+    "name": "Xilonen"
+  },
+  "10000026": {
+    "region": "Liyue",
+    "name": "Xiao",
+    "release": "2021-02-03"
+  },
+  "10000077": {
+    "region": "Liyue",
+    "name": "Yaoyao",
+    "release": "2023-01-18"
+  },
+  "10000109": {
+    "region": "Inazuma",
+    "name": "Yumemizuki Mizuki"
+  },
+  "10000060": {
+    "region": "Liyue",
+    "name": "Yelan",
+    "release": "2022-05-31"
+  },
+  "10000025": {
+    "region": "Liyue",
+    "name": "Xingqiu",
+    "release": "2020-09-28"
+  },
+  "10000049": {
+    "region": "Inazuma",
+    "name": "Yoimiya",
+    "release": "2021-08-10"
+  },
+  "10000030": {
+    "region": "Liyue",
+    "name": "Zhongli",
+    "release": "2020-12-01"
+  },
+  "10000058": {
+    "region": "Inazuma",
+    "name": "Yae Miko",
+    "release": "2022-02-16"
+  },
+  "10000023": {
+    "region": "Liyue",
+    "name": "Xiangling",
+    "release": "2020-09-28"
+  },
+  "10000048": {
+    "region": "Liyue",
+    "name": "Yanfei",
+    "release": "2021-04-28"
+  },
+  "10000126": {
+    "region": "Teyvat",
+    "name": "Zibai"
+  },
+  "10000064": {
+    "region": "Liyue",
+    "name": "Yun Jin",
+    "release": "2022-01-05"
+  },
+  "10000044": {
+    "region": "Liyue",
+    "name": "Xinyan",
+    "release": "2020-12-01"
+  }
+}

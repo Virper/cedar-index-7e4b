@@ -1,0 +1,679 @@
+[
+  {
+    "id": 15014,
+    "name": "Archaic Petra",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 15043,
+    "name": "Aubade of Morningstar and Moon",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 10002,
+    "name": "Brave Heart",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 15008,
+    "name": "Bloodstained Chivalry",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 14001,
+    "name": "Blizzard Strayer",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 10003,
+    "name": "Defender's Will",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 10010,
+    "name": "Adventurer",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 15045,
+    "name": "Celestial Gift",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 10005,
+    "name": "Berserker",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 15006,
+    "name": "Crimson Witch of Flames",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 15044,
+    "name": "A Day Carved From Rising Winds",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 15024,
+    "name": "Echoes of an Offering",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 15025,
+    "name": "Deepwood Memories",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 15028,
+    "name": "Flower of Paradise Lost",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 15035,
+    "name": "Fragment of Harmonic Whimsy",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 10008,
+    "name": "Gambler",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 15027,
+    "name": "Desert Pavilion Chronicle",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 15032,
+    "name": "Golden Troupe",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 15020,
+    "name": "Emblem of Severed Fate",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 15001,
+    "name": "Gladiator's Finale",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 15021,
+    "name": "Husk of Opulent Dreams",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 10007,
+    "name": "Instructor",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 15040,
+    "name": "Finale of the Deep Galleries",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 15039,
+    "name": "Long Night's Oath",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 15016,
+    "name": "Heart of Depth",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 14004,
+    "name": "Maiden Beloved",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 15046,
+    "name": "Disenchantment in Deep Shadow",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 10011,
+    "name": "Lucky Dog",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 15041,
+    "name": "Night of the Sky's Unveiling",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 15048,
+    "name": "Heart of the Furnace",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 15026,
+    "name": "Gilded Dreams",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 14003,
+    "name": "Lavawalker",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 15007,
+    "name": "Noblesse Oblige",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 15031,
+    "name": "Marechaussee Hunter",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 15029,
+    "name": "Nymph's Dream",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 15018,
+    "name": "Pale Flame",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 15022,
+    "name": "Ocean-Hued Clam",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 10006,
+    "name": "Martial Artist",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 15009,
+    "name": "Prayers for Illumination",
+    "slots": [
+      "circlet"
+    ]
+  },
+  {
+    "id": 15010,
+    "name": "Prayers for Destiny",
+    "slots": [
+      "circlet"
+    ]
+  },
+  {
+    "id": 15011,
+    "name": "Prayers for Wisdom",
+    "slots": [
+      "circlet"
+    ]
+  },
+  {
+    "id": 15013,
+    "name": "Prayers to Springtime",
+    "slots": [
+      "circlet"
+    ]
+  },
+  {
+    "id": 10001,
+    "name": "Resolution of Sojourner",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 15015,
+    "name": "Retracing Bolide",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 15047,
+    "name": "Scarlet Proof",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 15038,
+    "name": "Obsidian Codex",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 10012,
+    "name": "Scholar",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 15017,
+    "name": "Tenacity of the Millelith",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 15034,
+    "name": "Nighttime Whispers in the Echoing Woods",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 15033,
+    "name": "Song of Days Past",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 15005,
+    "name": "Thundering Fury",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 10009,
+    "name": "The Exile",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 15037,
+    "name": "Scroll of the Hero of Cinder City",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 10013,
+    "name": "Traveling Doctor",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 15019,
+    "name": "Shimenawa's Reminiscence",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 15023,
+    "name": "Vermillion Hereafter",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 15036,
+    "name": "Unfinished Reverie",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 10004,
+    "name": "Tiny Miracle",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 15042,
+    "name": "Silken Moon's Serenade",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 14002,
+    "name": "Thundersoother",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 15002,
+    "name": "Viridescent Venerer",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 15030,
+    "name": "Vourukasha's Glow",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  },
+  {
+    "id": 15003,
+    "name": "Wanderer's Troupe",
+    "slots": [
+      "flower",
+      "plume",
+      "sands",
+      "goblet",
+      "circlet"
+    ]
+  }
+]
