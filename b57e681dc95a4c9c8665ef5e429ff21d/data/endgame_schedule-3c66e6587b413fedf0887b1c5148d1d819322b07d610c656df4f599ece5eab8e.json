@@ -1,0 +1,197 @@
+{
+  "schema_version": 1,
+  "seasons": [
+    {
+      "id": "theater-2026-10-01",
+      "mode": "Theater",
+      "server": 0,
+      "start": 1790845200,
+      "end": 1793523600,
+      "valid_until": 1793523600,
+      "source": "https://genshin.hoyoverse.com/en/news/detail/166383",
+      "elements": [
+        "Hydro",
+        "Cryo",
+        "Anemo"
+      ]
+    },
+    {
+      "id": "theater-2026-10-01",
+      "mode": "Theater",
+      "server": 1,
+      "start": 1790823600,
+      "end": 1793502000,
+      "valid_until": 1793502000,
+      "source": "https://genshin.hoyoverse.com/en/news/detail/166383",
+      "elements": [
+        "Hydro",
+        "Cryo",
+        "Anemo"
+      ]
+    },
+    {
+      "id": "theater-2026-10-01",
+      "mode": "Theater",
+      "server": 2,
+      "start": 1790798400,
+      "end": 1793476800,
+      "valid_until": 1793476800,
+      "source": "https://genshin.hoyoverse.com/en/news/detail/166383",
+      "elements": [
+        "Hydro",
+        "Cryo",
+        "Anemo"
+      ]
+    },
+    {
+      "id": "theater-2026-10-01",
+      "mode": "Theater",
+      "server": 3,
+      "start": 1790798400,
+      "end": 1793476800,
+      "valid_until": 1793476800,
+      "source": "https://genshin.hoyoverse.com/en/news/detail/166383",
+      "elements": [
+        "Hydro",
+        "Cryo",
+        "Anemo"
+      ]
+    },
+    {
+      "id": "theater-2026-11-01",
+      "mode": "Theater",
+      "server": 0,
+      "start": 1793523600,
+      "end": 1796115600,
+      "valid_until": 1796115600,
+      "source": "https://genshin.hoyoverse.com/en/news/detail/166383",
+      "elements": [
+        "Hydro",
+        "Electro",
+        "Geo"
+      ]
+    },
+    {
+      "id": "theater-2026-11-01",
+      "mode": "Theater",
+      "server": 1,
+      "start": 1793502000,
+      "end": 1796094000,
+      "valid_until": 1796094000,
+      "source": "https://genshin.hoyoverse.com/en/news/detail/166383",
+      "elements": [
+        "Hydro",
+        "Electro",
+        "Geo"
+      ]
+    },
+    {
+      "id": "theater-2026-11-01",
+      "mode": "Theater",
+      "server": 2,
+      "start": 1793476800,
+      "end": 1796068800,
+      "valid_until": 1796068800,
+      "source": "https://genshin.hoyoverse.com/en/news/detail/166383",
+      "elements": [
+        "Hydro",
+        "Electro",
+        "Geo"
+      ]
+    },
+    {
+      "id": "theater-2026-11-01",
+      "mode": "Theater",
+      "server": 3,
+      "start": 1793476800,
+      "end": 1796068800,
+      "valid_until": 1796068800,
+      "source": "https://genshin.hoyoverse.com/en/news/detail/166383",
+      "elements": [
+        "Hydro",
+        "Electro",
+        "Geo"
+      ]
+    },
+    {
+      "id": "abyss-2026-10-16",
+      "mode": "Abyss",
+      "server": 0,
+      "start": 1792141200,
+      "end": 1794819600,
+      "valid_until": 1794819600,
+      "source": "https://genshin.hoyoverse.com/en/news/detail/166383",
+      "elements": []
+    },
+    {
+      "id": "abyss-2026-10-16",
+      "mode": "Abyss",
+      "server": 1,
+      "start": 1792119600,
+      "end": 1794798000,
+      "valid_until": 1794798000,
+      "source": "https://genshin.hoyoverse.com/en/news/detail/166383",
+      "elements": []
+    },
+    {
+      "id": "abyss-2026-10-16",
+      "mode": "Abyss",
+      "server": 2,
+      "start": 1792094400,
+      "end": 1794772800,
+      "valid_until": 1794772800,
+      "source": "https://genshin.hoyoverse.com/en/news/detail/166383",
+      "elements": []
+    },
+    {
+      "id": "abyss-2026-10-16",
+      "mode": "Abyss",
+      "server": 3,
+      "start": 1792094400,
+      "end": 1794772800,
+      "valid_until": 1794772800,
+      "source": "https://genshin.hoyoverse.com/en/news/detail/166383",
+      "elements": []
+    },
+    {
+      "id": "stygian-2026-09-30",
+      "mode": "Stygian",
+      "server": 0,
+      "start": 1790780400,
+      "end": 1793696400,
+      "valid_until": 1793696400,
+      "source": "https://wikiwiki.jp/genshinwiki/%E5%B9%BD%E5%A2%83%E3%81%AE%E6%BF%80%E6%88%A6",
+      "elements": []
+    },
+    {
+      "id": "stygian-2026-09-30",
+      "mode": "Stygian",
+      "server": 1,
+      "start": 1790758800,
+      "end": 1793674800,
+      "valid_until": 1793674800,
+      "source": "https://wikiwiki.jp/genshinwiki/%E5%B9%BD%E5%A2%83%E3%81%AE%E6%BF%80%E6%88%A6",
+      "elements": []
+    },
+    {
+      "id": "stygian-2026-09-30",
+      "mode": "Stygian",
+      "server": 2,
+      "start": 1790733600,
+      "end": 1793649600,
+      "valid_until": 1793649600,
+      "source": "https://wikiwiki.jp/genshinwiki/%E5%B9%BD%E5%A2%83%E3%81%AE%E6%BF%80%E6%88%A6",
+      "elements": []
+    },
+    {
+      "id": "stygian-2026-09-30",
+      "mode": "Stygian",
+      "server": 3,
+      "start": 1790733600,
+      "end": 1793649600,
+      "valid_until": 1793649600,
+      "source": "https://wikiwiki.jp/genshinwiki/%E5%B9%BD%E5%A2%83%E3%81%AE%E6%BF%80%E6%88%A6",
+      "elements": []
+    }
+  ]
+}

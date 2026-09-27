@@ -76,9 +76,9 @@
 			"sha256": "0e4f909c3610d3b3b3ee930bcff5fd2587da0e154bc0151190fea4ff892950dc"
 		},
 		"endgame_schedule.json": {
-			"bytes": 3854,
-			"path": "data/endgame_schedule-201a22b7ddb17d9b2ce35d6464c107fa5903ccb8a75fa72b626cf58a9e6dcee6.json",
-			"sha256": "201a22b7ddb17d9b2ce35d6464c107fa5903ccb8a75fa72b626cf58a9e6dcee6"
+			"bytes": 5070,
+			"path": "data/endgame_schedule-3c66e6587b413fedf0887b1c5148d1d819322b07d610c656df4f599ece5eab8e.json",
+			"sha256": "3c66e6587b413fedf0887b1c5148d1d819322b07d610c656df4f599ece5eab8e"
 		},
 		"game_version.json": {
 			"bytes": 194,
@@ -141,7 +141,7 @@
 			"sha256": "d5ef005518ab644b3fb4de089613ea7fdb2c7aa4e981813919d3e1a6ba8dd62a"
 		}
 	},
-	"notes": "Genshin 7.1 reference update. Compatible new clients also receive 150 Anecdotes, including 18 tagged 7.1. Personal completion is never included.",
-	"revision": "2026-09-27.204402",
+	"notes": "Added Stygian Onslaught September 30 start: 10:00 server time, 11:00 Netherlands time for EU. Season ends November 3 at 03:59 server time. All four servers supported; optional updates unchanged.",
+	"revision": "2026-09-27.205010",
 	"schema_version": 1
 }
