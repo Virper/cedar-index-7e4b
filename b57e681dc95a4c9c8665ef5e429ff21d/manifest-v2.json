@@ -1,5 +1,10 @@
 {
 	"files": {
+		"anecdotes.json": {
+			"bytes": 33092,
+			"path": "data/anecdotes-8c0e6a61dc9e842174159c81d444a7ff258e590d3009bfd37cbbbdb13201d574.json",
+			"sha256": "8c0e6a61dc9e842174159c81d444a7ff258e590d3009bfd37cbbbdb13201d574"
+		},
 		"artifact_levels.json": {
 			"bytes": 109487,
 			"path": "data/artifact_levels-29e99351c30805bb30966d7453c989216df608fa9e62540ecfd8dee98acbc978.json",
