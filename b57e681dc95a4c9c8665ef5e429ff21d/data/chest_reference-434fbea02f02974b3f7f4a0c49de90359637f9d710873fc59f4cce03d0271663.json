@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "maximums": {
+    "Common": 3646,
+    "Exquisite": 3136,
+    "Precious": 991,
+    "Luxurious": 376,
+    "Remarkable": 381
+  },
+  "source": "Legacy baseline from https://genshin-impact.fandom.com/wiki/Chest; NOT verified as version 7.1 totals. Retained pending a complete current count."
+}

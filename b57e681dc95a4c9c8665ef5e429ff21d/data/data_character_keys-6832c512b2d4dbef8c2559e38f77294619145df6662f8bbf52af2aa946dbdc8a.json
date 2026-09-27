@@ -1,0 +1,498 @@
+[
+  {
+    "id": 10000148,
+    "key": "alyosha"
+  },
+  {
+    "id": 10000021,
+    "key": "amber"
+  },
+  {
+    "id": 10000062,
+    "key": "aloy"
+  },
+  {
+    "id": 10000005,
+    "key": "aether"
+  },
+  {
+    "id": 10000038,
+    "key": "albedo"
+  },
+  {
+    "id": 10000082,
+    "key": "baizhu"
+  },
+  {
+    "id": 10000121,
+    "key": "aino"
+  },
+  {
+    "id": 10000104,
+    "key": "chasca"
+  },
+  {
+    "id": 10000096,
+    "key": "arlecchino"
+  },
+  {
+    "id": 10000057,
+    "key": "aratakiitto"
+  },
+  {
+    "id": 10000088,
+    "key": "charlotte"
+  },
+  {
+    "id": 10000090,
+    "key": "chevreuse"
+  },
+  {
+    "id": 10000072,
+    "key": "candace"
+  },
+  {
+    "id": 10000032,
+    "key": "bennett"
+  },
+  {
+    "id": 10000098,
+    "key": "clorinde"
+  },
+  {
+    "id": 10000107,
+    "key": "citlali"
+  },
+  {
+    "id": 10000094,
+    "key": "chiori"
+  },
+  {
+    "id": 10000079,
+    "key": "dehya"
+  },
+  {
+    "id": 10000014,
+    "key": "barbara"
+  },
+  {
+    "id": 10000024,
+    "key": "beidou"
+  },
+  {
+    "id": 10000036,
+    "key": "chongyun"
+  },
+  {
+    "id": 10000071,
+    "key": "cyno"
+  },
+  {
+    "id": 10000016,
+    "key": "diluc"
+  },
+  {
+    "id": 10000078,
+    "key": "alhaitham"
+  },
+  {
+    "id": 10000039,
+    "key": "diona"
+  },
+  {
+    "id": 10000068,
+    "key": "dori"
+  },
+  {
+    "id": 10000067,
+    "key": "collei"
+  },
+  {
+    "id": 10000099,
+    "key": "emilie"
+  },
+  {
+    "id": 10000076,
+    "key": "faruzan"
+  },
+  {
+    "id": 10000123,
+    "key": "durin"
+  },
+  {
+    "id": 10000031,
+    "key": "fischl"
+  },
+  {
+    "id": 10000112,
+    "key": "escoffier"
+  },
+  {
+    "id": 10000125,
+    "key": "columbina"
+  },
+  {
+    "id": 10000089,
+    "key": "furina"
+  },
+  {
+    "id": 10000092,
+    "key": "gaming"
+  },
+  {
+    "id": 10000085,
+    "key": "freminet"
+  },
+  {
+    "id": 10000051,
+    "key": "eula"
+  },
+  {
+    "id": 10000115,
+    "key": "dahlia"
+  },
+  {
+    "id": 10000046,
+    "key": "hutao"
+  },
+  {
+    "id": 10000110,
+    "key": "iansan"
+  },
+  {
+    "id": 10000120,
+    "key": "flins"
+  },
+  {
+    "id": 10000113,
+    "key": "ifa"
+  },
+  {
+    "id": 10000116,
+    "key": "ineffa"
+  },
+  {
+    "id": 10000124,
+    "key": "jahoda"
+  },
+  {
+    "id": 10000127,
+    "key": "illuga"
+  },
+  {
+    "id": 10000003,
+    "key": "jean"
+  },
+  {
+    "id": 10000015,
+    "key": "kaeya"
+  },
+  {
+    "id": 10000081,
+    "key": "kaveh"
+  },
+  {
+    "id": 10000042,
+    "key": "keqing"
+  },
+  {
+    "id": 10000100,
+    "key": "kachina"
+  },
+  {
+    "id": 10000002,
+    "key": "kamisatoayaka"
+  },
+  {
+    "id": 10000066,
+    "key": "kamisatoayato"
+  },
+  {
+    "id": 10000037,
+    "key": "ganyu"
+  },
+  {
+    "id": 10000055,
+    "key": "gorou"
+  },
+  {
+    "id": 10000065,
+    "key": "kukishinobu"
+  },
+  {
+    "id": 10000108,
+    "key": "lanyan"
+  },
+  {
+    "id": 10000119,
+    "key": "lauma"
+  },
+  {
+    "id": 10000056,
+    "key": "kujousara"
+  },
+  {
+    "id": 10000130,
+    "key": "linnea"
+  },
+  {
+    "id": 10000101,
+    "key": "kinich"
+  },
+  {
+    "id": 10000061,
+    "key": "kirara"
+  },
+  {
+    "id": 10000129,
+    "key": "lohen"
+  },
+  {
+    "id": 10000007,
+    "key": "lumine"
+  },
+  {
+    "id": 10000006,
+    "key": "lisa"
+  },
+  {
+    "id": 10000084,
+    "key": "lyney"
+  },
+  {
+    "id": 10000047,
+    "key": "kaedeharakazuha"
+  },
+  {
+    "id": 10000083,
+    "key": "lynette"
+  },
+  {
+    "id": 10000117,
+    "key": "manekin"
+  },
+  {
+    "id": 10000074,
+    "key": "layla"
+  },
+  {
+    "id": 10000029,
+    "key": "klee"
+  },
+  {
+    "id": 10000073,
+    "key": "nahida"
+  },
+  {
+    "id": 10000041,
+    "key": "mona"
+  },
+  {
+    "id": 10000080,
+    "key": "mika"
+  },
+  {
+    "id": 10000106,
+    "key": "mavuika"
+  },
+  {
+    "id": 10000070,
+    "key": "nilou"
+  },
+  {
+    "id": 10000091,
+    "key": "navia"
+  },
+  {
+    "id": 10000131,
+    "key": "nicole"
+  },
+  {
+    "id": 10000027,
+    "key": "ningguang"
+  },
+  {
+    "id": 10000105,
+    "key": "ororon"
+  },
+  {
+    "id": 10000034,
+    "key": "noelle"
+  },
+  {
+    "id": 10000122,
+    "key": "nefer"
+  },
+  {
+    "id": 10000102,
+    "key": "mualani"
+  },
+  {
+    "id": 10000035,
+    "key": "qiqi"
+  },
+  {
+    "id": 10000052,
+    "key": "raidenshogun"
+  },
+  {
+    "id": 10000132,
+    "key": "prune"
+  },
+  {
+    "id": 10000118,
+    "key": "manekina"
+  },
+  {
+    "id": 10000087,
+    "key": "neuvillette"
+  },
+  {
+    "id": 10000045,
+    "key": "rosaria"
+  },
+  {
+    "id": 10000150,
+    "key": "odette"
+  },
+  {
+    "id": 10000097,
+    "key": "sethos"
+  },
+  {
+    "id": 10000043,
+    "key": "sucrose"
+  },
+  {
+    "id": 10000054,
+    "key": "sangonomiyakokomi"
+  },
+  {
+    "id": 10000059,
+    "key": "shikanoinheizou"
+  },
+  {
+    "id": 10000133,
+    "key": "sandrone"
+  },
+  {
+    "id": 10000020,
+    "key": "razor"
+  },
+  {
+    "id": 10000111,
+    "key": "varesa"
+  },
+  {
+    "id": 10000114,
+    "key": "skirk"
+  },
+  {
+    "id": 10000050,
+    "key": "thoma"
+  },
+  {
+    "id": 10000063,
+    "key": "shenhe"
+  },
+  {
+    "id": 10000022,
+    "key": "venti"
+  },
+  {
+    "id": 10000075,
+    "key": "wanderer"
+  },
+  {
+    "id": 10000095,
+    "key": "sigewinne"
+  },
+  {
+    "id": 10000128,
+    "key": "varka"
+  },
+  {
+    "id": 10000033,
+    "key": "tartaglia"
+  },
+  {
+    "id": 10000069,
+    "key": "tighnari"
+  },
+  {
+    "id": 10000086,
+    "key": "wriothesley"
+  },
+  {
+    "id": 10000093,
+    "key": "xianyun"
+  },
+  {
+    "id": 10000053,
+    "key": "sayu"
+  },
+  {
+    "id": 10000103,
+    "key": "xilonen"
+  },
+  {
+    "id": 10000026,
+    "key": "xiao"
+  },
+  {
+    "id": 10000077,
+    "key": "yaoyao"
+  },
+  {
+    "id": 10000109,
+    "key": "yumemizukimizuki"
+  },
+  {
+    "id": 10000060,
+    "key": "yelan"
+  },
+  {
+    "id": 10000025,
+    "key": "xingqiu"
+  },
+  {
+    "id": 10000049,
+    "key": "yoimiya"
+  },
+  {
+    "id": 10000030,
+    "key": "zhongli"
+  },
+  {
+    "id": 10000058,
+    "key": "yaemiko"
+  },
+  {
+    "id": 10000023,
+    "key": "xiangling"
+  },
+  {
+    "id": 10000048,
+    "key": "yanfei"
+  },
+  {
+    "id": 10000126,
+    "key": "zibai"
+  },
+  {
+    "id": 10000064,
+    "key": "yunjin"
+  },
+  {
+    "id": 10000044,
+    "key": "xinyan"
+  },
+  {
+    "id": 10000143,
+    "key": "vesna"
+  },
+  {
+    "id": 10000140,
+    "key": "vodyanitsa"
+  }
+]
