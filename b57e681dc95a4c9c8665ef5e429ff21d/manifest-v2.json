@@ -1,9 +1,9 @@
 {
 	"files": {
 		"anecdotes.json": {
-			"bytes": 33092,
-			"path": "data/anecdotes-8c0e6a61dc9e842174159c81d444a7ff258e590d3009bfd37cbbbdb13201d574.json",
-			"sha256": "8c0e6a61dc9e842174159c81d444a7ff258e590d3009bfd37cbbbdb13201d574"
+			"bytes": 33308,
+			"path": "data/anecdotes-aa744fd7ca3027f42ab1679e300d8997ed9a98de7e93bde0bc2410625f5c9f89.json",
+			"sha256": "aa744fd7ca3027f42ab1679e300d8997ed9a98de7e93bde0bc2410625f5c9f89"
 		},
 		"artifact_levels.json": {
 			"bytes": 109487,
@@ -146,7 +146,7 @@
 			"sha256": "d5ef005518ab644b3fb4de089613ea7fdb2c7aa4e981813919d3e1a6ba8dd62a"
 		}
 	},
-	"notes": "Added Stygian Onslaught September 30 start: 10:00 server time, 11:00 Netherlands time for EU. Season ends November 3 at 03:59 server time. All four servers supported; optional updates unchanged.",
-	"revision": "2026-09-27.205010",
+	"notes": "Reviewed reference update for Genshin 7.1. See catalog sources; manually maintained totals may retain older baselines.",
+	"revision": "2026-09-29.181851",
 	"schema_version": 1
 }

@@ -1,0 +1,1077 @@
+{
+  "schema_version": 1,
+  "coverage_through": "7.1",
+  "checked_at": "2026-09-29",
+  "source": "https://genshin-impact.fandom.com/wiki/Travelers%27_Tales",
+  "source_revision": 2183685,
+  "coverage_note": "Complete against the source index and Anecdotes category on the checked date; later discoveries may add entries.",
+  "entry_count": 151,
+  "version_counts": {
+    "5.4": 45,
+    "5.7": 35,
+    "7.1": 19,
+    "Luna I": 28,
+    "Luna II": 1,
+    "Luna V": 21,
+    "Luna VI": 2
+  },
+  "anecdotes": [
+    {
+      "id": "wiki-404401",
+      "name": "A Better Choice...",
+      "character": "Aino",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Aino:_A_Better_Choice..."
+    },
+    {
+      "id": "wiki-405463",
+      "name": "Cats Equal Cuteness!",
+      "character": "Aino",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Aino:_Cats_Equal_Cuteness!"
+    },
+    {
+      "id": "wiki-401297",
+      "name": "Go, Go, Ineffa!",
+      "character": "Aino",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Aino:_Go,_Go,_Ineffa!"
+    },
+    {
+      "id": "wiki-401960",
+      "name": "The Rescue",
+      "character": "Aino",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Aino:_The_Rescue"
+    },
+    {
+      "id": "wiki-405334",
+      "name": "Time to Say Farewell",
+      "character": "Aino",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Aino:_Time_to_Say_Farewell"
+    },
+    {
+      "id": "wiki-491964",
+      "name": "The Hunt",
+      "character": "Alyosha",
+      "version": "7.1",
+      "source": "https://genshin-impact.fandom.com/wiki/Alyosha:_The_Hunt"
+    },
+    {
+      "id": "wiki-496716",
+      "name": "The Naughty Pup",
+      "character": "Alyosha",
+      "version": "7.1",
+      "source": "https://genshin-impact.fandom.com/wiki/Alyosha:_The_Naughty_Pup"
+    },
+    {
+      "id": "wiki-363491",
+      "name": "An Aerial View",
+      "character": "Amber",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Amber:_An_Aerial_View"
+    },
+    {
+      "id": "wiki-363425",
+      "name": "Day Off",
+      "character": "Amber",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Amber:_Day_Off"
+    },
+    {
+      "id": "wiki-363424",
+      "name": "Greetings, Traveler",
+      "character": "Amber",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Amber:_Greetings,_Traveler"
+    },
+    {
+      "id": "wiki-363422",
+      "name": "Mondstadt Meow",
+      "character": "Amber",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Amber:_Mondstadt_Meow"
+    },
+    {
+      "id": "wiki-363423",
+      "name": "Simply a Slime",
+      "character": "Amber",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Amber:_Simply_a_Slime"
+    },
+    {
+      "id": "wiki-382310",
+      "name": "A New Destination",
+      "character": "Charlotte",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Charlotte:_A_New_Destination"
+    },
+    {
+      "id": "wiki-379101",
+      "name": "A Wrench in the Works",
+      "character": "Charlotte",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Charlotte:_A_Wrench_in_the_Works"
+    },
+    {
+      "id": "wiki-492139",
+      "name": "News Team",
+      "character": "Charlotte",
+      "version": "7.1",
+      "source": "https://genshin-impact.fandom.com/wiki/Charlotte:_News_Team"
+    },
+    {
+      "id": "wiki-378911",
+      "name": "Patience",
+      "character": "Charlotte",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Charlotte:_Patience"
+    },
+    {
+      "id": "wiki-378918",
+      "name": "A Little Harder",
+      "character": "Chevreuse",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Chevreuse:_A_Little_Harder"
+    },
+    {
+      "id": "wiki-443678",
+      "name": "Tabletop Troupe (Nod-Krai)",
+      "character": "Clorinde",
+      "version": "Luna V",
+      "source": "https://genshin-impact.fandom.com/wiki/Clorinde:_Tabletop_Troupe_(Nod-Krai)"
+    },
+    {
+      "id": "wiki-495347",
+      "name": "Tabletop Troupe (Snezhnaya)",
+      "character": "Clorinde",
+      "version": "7.1",
+      "source": "https://genshin-impact.fandom.com/wiki/Clorinde:_Tabletop_Troupe_(Snezhnaya)"
+    },
+    {
+      "id": "wiki-378931",
+      "name": "Seminar",
+      "character": "Collei",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Collei:_Seminar"
+    },
+    {
+      "id": "wiki-381267",
+      "name": "Duty",
+      "character": "Cyno",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Cyno:_Duty"
+    },
+    {
+      "id": "wiki-379133",
+      "name": "Food",
+      "character": "Cyno",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Cyno:_Food"
+    },
+    {
+      "id": "wiki-378919",
+      "name": "Myco-management",
+      "character": "Cyno",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Cyno:_Myco-management"
+    },
+    {
+      "id": "wiki-451434",
+      "name": "Day of Confession",
+      "character": "Dahlia",
+      "version": "Luna VI",
+      "source": "https://genshin-impact.fandom.com/wiki/Dahlia:_Day_of_Confession"
+    },
+    {
+      "id": "wiki-379166",
+      "name": "Dress",
+      "character": "Dehya",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Dehya:_Dress"
+    },
+    {
+      "id": "wiki-378922",
+      "name": "Mechanical Dancer",
+      "character": "Dehya",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Dehya:_Mechanical_Dancer"
+    },
+    {
+      "id": "wiki-363411",
+      "name": "Pricing",
+      "character": "Diluc",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Diluc:_Pricing"
+    },
+    {
+      "id": "wiki-363408",
+      "name": "Commission",
+      "character": "Diona",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Diona:_Commission"
+    },
+    {
+      "id": "wiki-363409",
+      "name": "Empty-Handed",
+      "character": "Diona",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Diona:_Empty-Handed"
+    },
+    {
+      "id": "wiki-363407",
+      "name": "Hunting",
+      "character": "Diona",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Diona:_Hunting"
+    },
+    {
+      "id": "wiki-363494",
+      "name": "Prey Revealed",
+      "character": "Diona",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Diona:_Prey_Revealed"
+    },
+    {
+      "id": "wiki-444179",
+      "name": "Book Haul",
+      "character": "Durin",
+      "version": "Luna V",
+      "source": "https://genshin-impact.fandom.com/wiki/Durin:_Book_Haul"
+    },
+    {
+      "id": "wiki-443677",
+      "name": "Time to Learn",
+      "character": "Durin",
+      "version": "Luna V",
+      "source": "https://genshin-impact.fandom.com/wiki/Durin:_Time_to_Learn"
+    },
+    {
+      "id": "wiki-444255",
+      "name": "Alternative Uses",
+      "character": "Emilie",
+      "version": "Luna V",
+      "source": "https://genshin-impact.fandom.com/wiki/Emilie:_Alternative_Uses"
+    },
+    {
+      "id": "wiki-363418",
+      "name": "Mage",
+      "character": "Fischl",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Fischl:_Mage"
+    },
+    {
+      "id": "wiki-363564",
+      "name": "Moment of Fate",
+      "character": "Fischl",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Fischl:_Moment_of_Fate"
+    },
+    {
+      "id": "wiki-363416",
+      "name": "Revisions",
+      "character": "Fischl",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Fischl:_Revisions"
+    },
+    {
+      "id": "wiki-403307",
+      "name": "An Unexpected Assistant",
+      "character": "Flins",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Flins:_An_Unexpected_Assistant"
+    },
+    {
+      "id": "wiki-403289",
+      "name": "Ancient Coins",
+      "character": "Flins",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Flins:_Ancient_Coins"
+    },
+    {
+      "id": "wiki-402784",
+      "name": "Collectibles",
+      "character": "Flins",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Flins:_Collectibles"
+    },
+    {
+      "id": "wiki-403290",
+      "name": "Daily Essentials",
+      "character": "Flins",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Flins:_Daily_Essentials"
+    },
+    {
+      "id": "wiki-401899",
+      "name": "Out of One's Depth",
+      "character": "Flins",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Flins:_Out_of_One%27s_Depth"
+    },
+    {
+      "id": "wiki-402787",
+      "name": "Patrol",
+      "character": "Flins",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Flins:_Patrol"
+    },
+    {
+      "id": "wiki-378937",
+      "name": "A Story",
+      "character": "Freminet",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Freminet:_A_Story"
+    },
+    {
+      "id": "wiki-444250",
+      "name": "Yummy!",
+      "character": "Gaming",
+      "version": "Luna V",
+      "source": "https://genshin-impact.fandom.com/wiki/Gaming:_Yummy!"
+    },
+    {
+      "id": "wiki-379096",
+      "name": "Training Solutions",
+      "character": "Iansan",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Iansan:_Training_Solutions"
+    },
+    {
+      "id": "wiki-378869",
+      "name": "Medicine",
+      "character": "Ifa",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Ifa:_Medicine"
+    },
+    {
+      "id": "wiki-444064",
+      "name": "Flins and Illuga's Day Off",
+      "character": "Illuga",
+      "version": "Luna V",
+      "source": "https://genshin-impact.fandom.com/wiki/Illuga:_Flins_and_Illuga%27s_Day_Off"
+    },
+    {
+      "id": "wiki-443674",
+      "name": "One Class After Another",
+      "character": "Illuga",
+      "version": "Luna V",
+      "source": "https://genshin-impact.fandom.com/wiki/Illuga:_One_Class_After_Another"
+    },
+    {
+      "id": "wiki-403315",
+      "name": "A Matter of Krumkakes",
+      "character": "Ineffa",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Ineffa:_A_Matter_of_Krumkakes"
+    },
+    {
+      "id": "wiki-403279",
+      "name": "A Matter of Language",
+      "character": "Ineffa",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Ineffa:_A_Matter_of_Language"
+    },
+    {
+      "id": "wiki-402256",
+      "name": "Meditation Time",
+      "character": "Ineffa",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Ineffa:_Meditation_Time"
+    },
+    {
+      "id": "wiki-495306",
+      "name": "A Thief's End",
+      "character": "Jahoda",
+      "version": "7.1",
+      "source": "https://genshin-impact.fandom.com/wiki/Jahoda:_A_Thief%27s_End"
+    },
+    {
+      "id": "wiki-400913",
+      "name": "Appropriate Recompense",
+      "character": "Jahoda",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Jahoda:_Appropriate_Recompense"
+    },
+    {
+      "id": "wiki-402646",
+      "name": "Cat! Hey! Cat!",
+      "character": "Jahoda",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Jahoda:_Cat!_Hey!_Cat!"
+    },
+    {
+      "id": "wiki-405343",
+      "name": "Sorry, Ineffa...",
+      "character": "Jahoda",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Jahoda:_Sorry,_Ineffa..."
+    },
+    {
+      "id": "wiki-444246",
+      "name": "The First Step",
+      "character": "Kachina",
+      "version": "Luna V",
+      "source": "https://genshin-impact.fandom.com/wiki/Kachina:_The_First_Step"
+    },
+    {
+      "id": "wiki-363398",
+      "name": "Gazing at Sky and Earth",
+      "character": "Kaedehara Kazuha",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Kaedehara_Kazuha:_Gazing_at_Sky_and_Earth"
+    },
+    {
+      "id": "wiki-363399",
+      "name": "Of Blades and Wine",
+      "character": "Kaedehara Kazuha",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Kaedehara_Kazuha:_Of_Blades_and_Wine"
+    },
+    {
+      "id": "wiki-363400",
+      "name": "Reflections on the Road",
+      "character": "Kaedehara Kazuha",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Kaedehara_Kazuha:_Reflections_on_the_Road"
+    },
+    {
+      "id": "wiki-378916",
+      "name": "Business",
+      "character": "Kamisato Ayato",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Kamisato_Ayato:_Business"
+    },
+    {
+      "id": "wiki-363410",
+      "name": "Overworked",
+      "character": "Keqing",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Keqing:_Overworked"
+    },
+    {
+      "id": "wiki-378908",
+      "name": "Commission",
+      "character": "Kinich",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Kinich:_Commission"
+    },
+    {
+      "id": "wiki-378910",
+      "name": "Icy Cool",
+      "character": "Kirara",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Kirara:_Icy_Cool"
+    },
+    {
+      "id": "wiki-382275",
+      "name": "My Package!",
+      "character": "Kirara",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Kirara:_My_Package!"
+    },
+    {
+      "id": "wiki-378894",
+      "name": "Steaming Hot",
+      "character": "Kirara",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Kirara:_Steaming_Hot"
+    },
+    {
+      "id": "wiki-444194",
+      "name": "The Letter of the Law",
+      "character": "Kuki Shinobu",
+      "version": "Luna V",
+      "source": "https://genshin-impact.fandom.com/wiki/Kuki_Shinobu:_The_Letter_of_the_Law"
+    },
+    {
+      "id": "wiki-401895",
+      "name": "The Gathering",
+      "character": "Lauma",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Lauma:_The_Gathering"
+    },
+    {
+      "id": "wiki-403281",
+      "name": "The Weight She Bears",
+      "character": "Lauma",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Lauma:_The_Weight_She_Bears"
+    },
+    {
+      "id": "wiki-378915",
+      "name": "Fix...?",
+      "character": "Lynette",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Lynette:_Fix...%3F"
+    },
+    {
+      "id": "wiki-378909",
+      "name": "Magic",
+      "character": "Lyney",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Lyney:_Magic"
+    },
+    {
+      "id": "wiki-495310",
+      "name": "Performance Venue",
+      "character": "Lyney",
+      "version": "7.1",
+      "source": "https://genshin-impact.fandom.com/wiki/Lyney:_Performance_Venue"
+    },
+    {
+      "id": "wiki-403252",
+      "name": "Deliver By Hand",
+      "character": "Mika",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Mika:_Deliver_By_Hand"
+    },
+    {
+      "id": "wiki-402005",
+      "name": "A Distinguished Guest",
+      "character": "Nefer",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Nefer:_A_Distinguished_Guest"
+    },
+    {
+      "id": "wiki-402257",
+      "name": "A Familiar Face",
+      "character": "Nefer",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Nefer:_A_Familiar_Face"
+    },
+    {
+      "id": "wiki-402297",
+      "name": "Reliable or Not",
+      "character": "Nefer",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Nefer:_Reliable_or_Not"
+    },
+    {
+      "id": "wiki-379147",
+      "name": "Gift",
+      "character": "Neuvillette",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Neuvillette:_Gift"
+    },
+    {
+      "id": "wiki-378920",
+      "name": "Standing in the Rain",
+      "character": "Neuvillette",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Neuvillette:_Standing_in_the_Rain"
+    },
+    {
+      "id": "wiki-382316",
+      "name": "Visit",
+      "character": "Neuvillette",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Neuvillette:_Visit"
+    },
+    {
+      "id": "wiki-443897",
+      "name": "Inspiration Strikes",
+      "character": "Nicole",
+      "version": "Luna V",
+      "source": "https://genshin-impact.fandom.com/wiki/Nicole:_Inspiration_Strikes"
+    },
+    {
+      "id": "wiki-363417",
+      "name": "Solemn Duty",
+      "character": "Ningguang",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Ningguang:_Solemn_Duty"
+    },
+    {
+      "id": "wiki-363413",
+      "name": "Bladework",
+      "character": "Noelle",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Noelle:_Bladework"
+    },
+    {
+      "id": "wiki-363415",
+      "name": "Path to Improvement",
+      "character": "Noelle",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Noelle:_Path_to_Improvement"
+    },
+    {
+      "id": "wiki-496523",
+      "name": "Catching a Ride",
+      "character": "Odette",
+      "version": "7.1",
+      "source": "https://genshin-impact.fandom.com/wiki/Odette:_Catching_a_Ride"
+    },
+    {
+      "id": "wiki-496525",
+      "name": "Food Is No Small Matter",
+      "character": "Odette",
+      "version": "7.1",
+      "source": "https://genshin-impact.fandom.com/wiki/Odette:_Food_Is_No_Small_Matter"
+    },
+    {
+      "id": "wiki-494690",
+      "name": "Practice Day",
+      "character": "Odette",
+      "version": "7.1",
+      "source": "https://genshin-impact.fandom.com/wiki/Odette:_Practice_Day"
+    },
+    {
+      "id": "wiki-363412",
+      "name": "Cooking",
+      "character": "Qiqi",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Qiqi:_Cooking"
+    },
+    {
+      "id": "wiki-363404",
+      "name": "Holiday",
+      "character": "Rosaria",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Rosaria:_Holiday"
+    },
+    {
+      "id": "wiki-363402",
+      "name": "Primary Work",
+      "character": "Rosaria",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Rosaria:_Primary_Work"
+    },
+    {
+      "id": "wiki-363401",
+      "name": "Work",
+      "character": "Rosaria",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Rosaria:_Work"
+    },
+    {
+      "id": "wiki-494675",
+      "name": "On the Trail",
+      "character": "Sandrone",
+      "version": "7.1",
+      "source": "https://genshin-impact.fandom.com/wiki/Sandrone:_On_the_Trail"
+    },
+    {
+      "id": "wiki-492142",
+      "name": "The Commission",
+      "character": "Sandrone",
+      "version": "7.1",
+      "source": "https://genshin-impact.fandom.com/wiki/Sandrone:_The_Commission"
+    },
+    {
+      "id": "wiki-363397",
+      "name": "Reunion",
+      "character": "Sangonomiya Kokomi",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Sangonomiya_Kokomi:_Reunion"
+    },
+    {
+      "id": "wiki-363396",
+      "name": "Solitary Dreams",
+      "character": "Sangonomiya Kokomi",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Sangonomiya_Kokomi:_Solitary_Dreams"
+    },
+    {
+      "id": "wiki-382396",
+      "name": "The Art of... Growing Tall?",
+      "character": "Sayu",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Sayu:_The_Art_of..._Growing_Tall%3F"
+    },
+    {
+      "id": "wiki-363393",
+      "name": "Inner Musings",
+      "character": "Shenhe",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Shenhe:_Inner_Musings"
+    },
+    {
+      "id": "wiki-378913",
+      "name": "An Unusual Case",
+      "character": "Shikanoin Heizou",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Shikanoin_Heizou:_An_Unusual_Case"
+    },
+    {
+      "id": "wiki-382557",
+      "name": "Case Closed",
+      "character": "Shikanoin Heizou",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Shikanoin_Heizou:_Case_Closed"
+    },
+    {
+      "id": "wiki-382319",
+      "name": "The Chase",
+      "character": "Shikanoin Heizou",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Shikanoin_Heizou:_The_Chase"
+    },
+    {
+      "id": "wiki-403285",
+      "name": "The Crimes of Others",
+      "character": "Shikanoin Heizou",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Shikanoin_Heizou:_The_Crimes_of_Others"
+    },
+    {
+      "id": "wiki-379165",
+      "name": "The Truth",
+      "character": "Shikanoin Heizou",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Shikanoin_Heizou:_The_Truth"
+    },
+    {
+      "id": "wiki-382320",
+      "name": "Waiting...",
+      "character": "Shikanoin Heizou",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Shikanoin_Heizou:_Waiting..."
+    },
+    {
+      "id": "wiki-401338",
+      "name": "Daily Essentials",
+      "character": "Skirk",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Skirk:_Daily_Essentials"
+    },
+    {
+      "id": "wiki-363414",
+      "name": "Observations",
+      "character": "Sucrose",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Sucrose:_Observations"
+    },
+    {
+      "id": "wiki-495359",
+      "name": "Buying Tickets",
+      "character": "Tartaglia",
+      "version": "7.1",
+      "source": "https://genshin-impact.fandom.com/wiki/Tartaglia:_Buying_Tickets"
+    },
+    {
+      "id": "wiki-496433",
+      "name": "Something to Show for It",
+      "character": "Tartaglia",
+      "version": "7.1",
+      "source": "https://genshin-impact.fandom.com/wiki/Tartaglia:_Something_to_Show_for_It"
+    },
+    {
+      "id": "wiki-378956",
+      "name": "Long Vacation",
+      "character": "Thoma",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Thoma:_Long_Vacation"
+    },
+    {
+      "id": "wiki-378907",
+      "name": "Training Exam",
+      "character": "Thoma",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Thoma:_Training_Exam"
+    },
+    {
+      "id": "wiki-447843",
+      "name": "A Chivalrous Choosing",
+      "character": "Varka",
+      "version": "Luna V",
+      "source": "https://genshin-impact.fandom.com/wiki/Varka:_A_Chivalrous_Choosing"
+    },
+    {
+      "id": "wiki-444215",
+      "name": "A Suitable Weapon",
+      "character": "Varka",
+      "version": "Luna V",
+      "source": "https://genshin-impact.fandom.com/wiki/Varka:_A_Suitable_Weapon"
+    },
+    {
+      "id": "wiki-451453",
+      "name": "Behind the Diligence",
+      "character": "Varka",
+      "version": "Luna VI",
+      "source": "https://genshin-impact.fandom.com/wiki/Varka:_Behind_the_Diligence"
+    },
+    {
+      "id": "wiki-444066",
+      "name": "Communications",
+      "character": "Varka",
+      "version": "Luna V",
+      "source": "https://genshin-impact.fandom.com/wiki/Varka:_Communications"
+    },
+    {
+      "id": "wiki-444141",
+      "name": "Knight Errands",
+      "character": "Varka",
+      "version": "Luna V",
+      "source": "https://genshin-impact.fandom.com/wiki/Varka:_Knight_Errands"
+    },
+    {
+      "id": "wiki-446913",
+      "name": "Romance of the Knight",
+      "character": "Varka",
+      "version": "Luna V",
+      "source": "https://genshin-impact.fandom.com/wiki/Varka:_Romance_of_the_Knight"
+    },
+    {
+      "id": "wiki-443945",
+      "name": "Sampling the Delights",
+      "character": "Varka",
+      "version": "Luna V",
+      "source": "https://genshin-impact.fandom.com/wiki/Varka:_Sampling_the_Delights"
+    },
+    {
+      "id": "wiki-443679",
+      "name": "Until the Casks Run Dry",
+      "character": "Varka",
+      "version": "Luna V",
+      "source": "https://genshin-impact.fandom.com/wiki/Varka:_Until_the_Casks_Run_Dry"
+    },
+    {
+      "id": "wiki-496411",
+      "name": "All's Well That Ends Well",
+      "character": "Vesna",
+      "version": "7.1",
+      "source": "https://genshin-impact.fandom.com/wiki/Vesna:_All%27s_Well_That_Ends_Well"
+    },
+    {
+      "id": "wiki-496409",
+      "name": "Another Ticket Trouble",
+      "character": "Vesna",
+      "version": "7.1",
+      "source": "https://genshin-impact.fandom.com/wiki/Vesna:_Another_Ticket_Trouble"
+    },
+    {
+      "id": "wiki-496407",
+      "name": "Hear My Voice",
+      "character": "Vodyanitsa",
+      "version": "7.1",
+      "source": "https://genshin-impact.fandom.com/wiki/Vodyanitsa:_Hear_My_Voice"
+    },
+    {
+      "id": "wiki-495305",
+      "name": "I'll Take It All!",
+      "character": "Vodyanitsa",
+      "version": "7.1",
+      "source": "https://genshin-impact.fandom.com/wiki/Vodyanitsa:_I%27ll_Take_It_All!"
+    },
+    {
+      "id": "wiki-491962",
+      "name": "Ticket Trouble",
+      "character": "Vodyanitsa",
+      "version": "7.1",
+      "source": "https://genshin-impact.fandom.com/wiki/Vodyanitsa:_Ticket_Trouble"
+    },
+    {
+      "id": "wiki-496524",
+      "name": "Train Furnishings",
+      "character": "Vodyanitsa",
+      "version": "7.1",
+      "source": "https://genshin-impact.fandom.com/wiki/Vodyanitsa:_Train_Furnishings"
+    },
+    {
+      "id": "wiki-444178",
+      "name": "Quite the Win",
+      "character": "Wriothesley",
+      "version": "Luna V",
+      "source": "https://genshin-impact.fandom.com/wiki/Wriothesley:_Quite_the_Win"
+    },
+    {
+      "id": "wiki-363421",
+      "name": "Sweet Perfume",
+      "character": "Xiangling",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Xiangling:_Sweet_Perfume"
+    },
+    {
+      "id": "wiki-363390",
+      "name": "Disciple's Gift",
+      "character": "Xianyun",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Xianyun:_Disciple%27s_Gift"
+    },
+    {
+      "id": "wiki-364430",
+      "name": "Gracious",
+      "character": "Xianyun",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Xianyun:_Gracious"
+    },
+    {
+      "id": "wiki-364424",
+      "name": "Impressions of Mondstadt",
+      "character": "Xianyun",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Xianyun:_Impressions_of_Mondstadt"
+    },
+    {
+      "id": "wiki-364427",
+      "name": "Lupine Encounter",
+      "character": "Xianyun",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Xianyun:_Lupine_Encounter"
+    },
+    {
+      "id": "wiki-364236",
+      "name": "Starsnatch Panorama",
+      "character": "Xianyun",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Xianyun:_Starsnatch_Panorama"
+    },
+    {
+      "id": "wiki-379087",
+      "name": "Face to Face",
+      "character": "Xilonen",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Xilonen:_Face_to_Face"
+    },
+    {
+      "id": "wiki-363420",
+      "name": "Calligraphic Swordsmanship I",
+      "character": "Xingqiu",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Xingqiu:_Calligraphic_Swordsmanship_I"
+    },
+    {
+      "id": "wiki-363419",
+      "name": "Calligraphic Swordsmanship II",
+      "character": "Xingqiu",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Xingqiu:_Calligraphic_Swordsmanship_II"
+    },
+    {
+      "id": "wiki-364151",
+      "name": "No Other Choice",
+      "character": "Xingqiu",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Xingqiu:_No_Other_Choice"
+    },
+    {
+      "id": "wiki-364228",
+      "name": "Words of Gold",
+      "character": "Xingqiu",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Xingqiu:_Words_of_Gold"
+    },
+    {
+      "id": "wiki-401333",
+      "name": "A New Performance",
+      "character": "Xinyan",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Xinyan:_A_New_Performance"
+    },
+    {
+      "id": "wiki-378925",
+      "name": "Good Fortune",
+      "character": "Yae Miko",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Yae_Miko:_Good_Fortune"
+    },
+    {
+      "id": "wiki-400909",
+      "name": "Academic Interests",
+      "character": "Yanfei",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Yanfei:_Academic_Interests"
+    },
+    {
+      "id": "wiki-403318",
+      "name": "Oh, horns...",
+      "character": "Yanfei",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Yanfei:_Oh,_horns..."
+    },
+    {
+      "id": "wiki-363392",
+      "name": "Thrust and Parry",
+      "character": "Yaoyao",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Yaoyao:_Thrust_and_Parry"
+    },
+    {
+      "id": "wiki-363391",
+      "name": "Trip to the Country",
+      "character": "Yaoyao",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Yaoyao:_Trip_to_the_Country"
+    },
+    {
+      "id": "wiki-413463",
+      "name": "Motives and Means",
+      "character": "Yelan",
+      "version": "Luna II",
+      "source": "https://genshin-impact.fandom.com/wiki/Yelan:_Motives_and_Means"
+    },
+    {
+      "id": "wiki-444063",
+      "name": "A Long Way From Home",
+      "character": "Yoimiya",
+      "version": "Luna V",
+      "source": "https://genshin-impact.fandom.com/wiki/Yoimiya:_A_Long_Way_From_Home"
+    },
+    {
+      "id": "wiki-444143",
+      "name": "Like Being a Child Again",
+      "character": "Yoimiya",
+      "version": "Luna V",
+      "source": "https://genshin-impact.fandom.com/wiki/Yoimiya:_Like_Being_a_Child_Again"
+    },
+    {
+      "id": "wiki-378917",
+      "name": "New Patient",
+      "character": "Yumemizuki Mizuki",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Yumemizuki_Mizuki:_New_Patient"
+    },
+    {
+      "id": "wiki-379167",
+      "name": "Treatment",
+      "character": "Yumemizuki Mizuki",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Yumemizuki_Mizuki:_Treatment"
+    },
+    {
+      "id": "wiki-363395",
+      "name": "All Visitors Are Guests",
+      "character": "Yun Jin",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Yun_Jin:_All_Visitors_Are_Guests"
+    },
+    {
+      "id": "wiki-363394",
+      "name": "Stones of Another Mountain",
+      "character": "Yun Jin",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Yun_Jin:_Stones_of_Another_Mountain"
+    },
+    {
+      "id": "wiki-363403",
+      "name": "Avid Reader",
+      "character": "Zhongli",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Zhongli:_Avid_Reader"
+    },
+    {
+      "id": "wiki-363406",
+      "name": "Opera",
+      "character": "Zhongli",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Zhongli:_Opera"
+    },
+    {
+      "id": "wiki-363405",
+      "name": "Time for Tea",
+      "character": "Zhongli",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Zhongli:_Time_for_Tea"
+    },
+    {
+      "id": "wiki-446090",
+      "name": "The Adeptus Arts, Once More",
+      "character": "Zibai",
+      "version": "Luna V",
+      "source": "https://genshin-impact.fandom.com/wiki/Zibai:_The_Adeptus_Arts,_Once_More"
+    }
+  ]
+}

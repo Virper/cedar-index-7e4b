@@ -141,7 +141,7 @@
 			"sha256": "d5ef005518ab644b3fb4de089613ea7fdb2c7aa4e981813919d3e1a6ba8dd62a"
 		}
 	},
-	"notes": "Added Stygian Onslaught September 30 start: 10:00 server time, 11:00 Netherlands time for EU. Season ends November 3 at 03:59 server time. All four servers supported; optional updates unchanged.",
-	"revision": "2026-09-27.205010",
+	"notes": "Reviewed reference update for Genshin 7.1. See catalog sources; manually maintained totals may retain older baselines.",
+	"revision": "2026-09-29.181851",
 	"schema_version": 1
 }
