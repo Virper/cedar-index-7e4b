@@ -26,9 +26,9 @@
 			"sha256": "9131b2f809e939ad604b0270a1ffaf410f2e433884ef433c561ad726fa58f448"
 		},
 		"chest_reference.json": {
-			"bytes": 327,
-			"path": "data/chest_reference-434fbea02f02974b3f7f4a0c49de90359637f9d710873fc59f4cce03d0271663.json",
-			"sha256": "434fbea02f02974b3f7f4a0c49de90359637f9d710873fc59f4cce03d0271663"
+			"bytes": 315,
+			"path": "data/chest_reference-fa61488e9d656b25707eb55fa170030ed0a35ebd93c971a761ca998554c3f62f.json",
+			"sha256": "fa61488e9d656b25707eb55fa170030ed0a35ebd93c971a761ca998554c3f62f"
 		},
 		"companion_materials.json": {
 			"bytes": 87110,
@@ -91,9 +91,9 @@
 			"sha256": "f57c5ffa27c6faba884065ae10600bb36252c080dd99e545c651677fd8a2edaf"
 		},
 		"regional_reference.json": {
-			"bytes": 2875,
-			"path": "data/regional_reference-3b092d46a0fec405c92151b0de8ed82e2a31872a94bb1c7a96f42baa25d05051.json",
-			"sha256": "3b092d46a0fec405c92151b0de8ed82e2a31872a94bb1c7a96f42baa25d05051"
+			"bytes": 2871,
+			"path": "data/regional_reference-3a23226971eaa1f9361876043dba9d937104d1742935be42744a9d724bff58a1.json",
+			"sha256": "3a23226971eaa1f9361876043dba9d937104d1742935be42744a9d724bff58a1"
 		},
 		"roster.json": {
 			"bytes": 17834,
@@ -141,7 +141,7 @@
 			"sha256": "d5ef005518ab644b3fb4de089613ea7fdb2c7aa4e981813919d3e1a6ba8dd62a"
 		}
 	},
-	"notes": "Reviewed reference update for Genshin 7.1. See catalog sources; manually maintained totals may retain older baselines.",
-	"revision": "2026-09-29.181851",
+	"notes": "Chest maximums: per-type totals from the wiki Chest page (read 2026-09-30; may not yet include all 7.1 chests) and regional chest maxima for Mondstadt, Liyue, Inazuma I/II and Tsurumi.",
+	"revision": "2026-09-30.110907",
 	"schema_version": 1
 }

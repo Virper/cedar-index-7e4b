@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "maximums": {
+    "Common": 3838,
+    "Exquisite": 3372,
+    "Precious": 1072,
+    "Luxurious": 409,
+    "Remarkable": 416
+  },
+  "source": "Totals table on https://genshin-impact.fandom.com/wiki/Chest as read on 2026-09-30; may not yet include chests added in version 7.1."
+}
