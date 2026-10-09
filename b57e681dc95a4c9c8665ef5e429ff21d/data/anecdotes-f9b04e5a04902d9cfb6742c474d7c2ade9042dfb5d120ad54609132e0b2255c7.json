@@ -1,0 +1,1112 @@
+{
+  "schema_version": 1,
+  "coverage_through": "7.1",
+  "checked_at": "2026-10-09",
+  "source": "https://genshin-impact.fandom.com/wiki/Travelers%27_Tales",
+  "source_revision": 2194068,
+  "coverage_note": "Complete against the source index and Anecdotes category on the checked date; later discoveries may add entries.",
+  "entry_count": 156,
+  "version_counts": {
+    "5.4": 45,
+    "5.7": 35,
+    "7.1": 24,
+    "Luna I": 28,
+    "Luna II": 1,
+    "Luna V": 21,
+    "Luna VI": 2
+  },
+  "anecdotes": [
+    {
+      "id": "wiki-404401",
+      "name": "Aino",
+      "character": "No",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Aino"
+    },
+    {
+      "id": "wiki-405463",
+      "name": "Aino",
+      "character": "No",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Aino"
+    },
+    {
+      "id": "wiki-401297",
+      "name": "Aino",
+      "character": "No",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Aino"
+    },
+    {
+      "id": "wiki-401960",
+      "name": "Aino",
+      "character": "No",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Aino"
+    },
+    {
+      "id": "wiki-405334",
+      "name": "Aino",
+      "character": "No",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Aino"
+    },
+    {
+      "id": "wiki-363491",
+      "name": "Amber",
+      "character": "No",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Amber"
+    },
+    {
+      "id": "wiki-363425",
+      "name": "Amber",
+      "character": "No",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Amber"
+    },
+    {
+      "id": "wiki-363424",
+      "name": "Amber",
+      "character": "No",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Amber"
+    },
+    {
+      "id": "wiki-363422",
+      "name": "Amber",
+      "character": "No",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Amber"
+    },
+    {
+      "id": "wiki-363423",
+      "name": "Amber",
+      "character": "No",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Amber"
+    },
+    {
+      "id": "wiki-382310",
+      "name": "Charlotte",
+      "character": "No",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Charlotte"
+    },
+    {
+      "id": "wiki-379101",
+      "name": "Charlotte",
+      "character": "No",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Charlotte"
+    },
+    {
+      "id": "wiki-378911",
+      "name": "Charlotte",
+      "character": "No",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Charlotte"
+    },
+    {
+      "id": "wiki-492139",
+      "name": "Charlotte",
+      "character": "No",
+      "version": "7.1",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Charlotte"
+    },
+    {
+      "id": "wiki-378918",
+      "name": "Chevreuse",
+      "character": "No",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Chevreuse"
+    },
+    {
+      "id": "wiki-443678",
+      "name": "Clorinde",
+      "character": "No",
+      "version": "Luna V",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Clorinde"
+    },
+    {
+      "id": "wiki-495347",
+      "name": "Clorinde",
+      "character": "No",
+      "version": "7.1",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Clorinde"
+    },
+    {
+      "id": "wiki-378931",
+      "name": "Collei",
+      "character": "No",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Collei"
+    },
+    {
+      "id": "wiki-381267",
+      "name": "Cyno",
+      "character": "No",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Cyno"
+    },
+    {
+      "id": "wiki-379133",
+      "name": "Cyno",
+      "character": "No",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Cyno"
+    },
+    {
+      "id": "wiki-378919",
+      "name": "Cyno",
+      "character": "No",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Cyno"
+    },
+    {
+      "id": "wiki-451434",
+      "name": "Dahlia",
+      "character": "No",
+      "version": "Luna VI",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Dahlia"
+    },
+    {
+      "id": "wiki-379166",
+      "name": "Dehya",
+      "character": "No",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Dehya"
+    },
+    {
+      "id": "wiki-378922",
+      "name": "Dehya",
+      "character": "No",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Dehya"
+    },
+    {
+      "id": "wiki-363411",
+      "name": "Diluc",
+      "character": "No",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Diluc"
+    },
+    {
+      "id": "wiki-363408",
+      "name": "Diona",
+      "character": "No",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Diona"
+    },
+    {
+      "id": "wiki-363409",
+      "name": "Diona",
+      "character": "No",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Diona"
+    },
+    {
+      "id": "wiki-363407",
+      "name": "Diona",
+      "character": "No",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Diona"
+    },
+    {
+      "id": "wiki-363494",
+      "name": "Diona",
+      "character": "No",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Diona"
+    },
+    {
+      "id": "wiki-444255",
+      "name": "Emilie",
+      "character": "No",
+      "version": "Luna V",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Emilie"
+    },
+    {
+      "id": "wiki-363418",
+      "name": "Fischl",
+      "character": "No",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Fischl"
+    },
+    {
+      "id": "wiki-363564",
+      "name": "Fischl",
+      "character": "No",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Fischl"
+    },
+    {
+      "id": "wiki-363416",
+      "name": "Fischl",
+      "character": "No",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Fischl"
+    },
+    {
+      "id": "wiki-403307",
+      "name": "Flins",
+      "character": "No",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Flins"
+    },
+    {
+      "id": "wiki-403289",
+      "name": "Flins",
+      "character": "No",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Flins"
+    },
+    {
+      "id": "wiki-403290",
+      "name": "Flins",
+      "character": "No",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Flins"
+    },
+    {
+      "id": "wiki-401899",
+      "name": "Flins",
+      "character": "No",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Flins"
+    },
+    {
+      "id": "wiki-378937",
+      "name": "Freminet",
+      "character": "No",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Freminet"
+    },
+    {
+      "id": "wiki-444250",
+      "name": "Gaming",
+      "character": "No",
+      "version": "Luna V",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Gaming"
+    },
+    {
+      "id": "wiki-379096",
+      "name": "Iansan",
+      "character": "No",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Iansan"
+    },
+    {
+      "id": "wiki-444064",
+      "name": "Illuga",
+      "character": "No",
+      "version": "Luna V",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Illuga"
+    },
+    {
+      "id": "wiki-443674",
+      "name": "Illuga",
+      "character": "No",
+      "version": "Luna V",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Illuga"
+    },
+    {
+      "id": "wiki-403315",
+      "name": "Ineffa",
+      "character": "No",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Ineffa"
+    },
+    {
+      "id": "wiki-403279",
+      "name": "Ineffa",
+      "character": "No",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Ineffa"
+    },
+    {
+      "id": "wiki-402256",
+      "name": "Ineffa",
+      "character": "No",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Ineffa"
+    },
+    {
+      "id": "wiki-405343",
+      "name": "Jahoda",
+      "character": "No",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Jahoda"
+    },
+    {
+      "id": "wiki-495306",
+      "name": "Jahoda",
+      "character": "No",
+      "version": "7.1",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Jahoda"
+    },
+    {
+      "id": "wiki-444246",
+      "name": "Kachina",
+      "character": "No",
+      "version": "Luna V",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Kachina"
+    },
+    {
+      "id": "wiki-363398",
+      "name": "Kaedehara Kazuha",
+      "character": "No",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Kaedehara_Kazuha"
+    },
+    {
+      "id": "wiki-363399",
+      "name": "Kaedehara Kazuha",
+      "character": "No",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Kaedehara_Kazuha"
+    },
+    {
+      "id": "wiki-363400",
+      "name": "Kaedehara Kazuha",
+      "character": "No",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Kaedehara_Kazuha"
+    },
+    {
+      "id": "wiki-378916",
+      "name": "Kamisato Ayato",
+      "character": "No",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Kamisato_Ayato"
+    },
+    {
+      "id": "wiki-363410",
+      "name": "Keqing",
+      "character": "No",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Keqing"
+    },
+    {
+      "id": "wiki-378910",
+      "name": "Kirara",
+      "character": "No",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Kirara"
+    },
+    {
+      "id": "wiki-382275",
+      "name": "Kirara",
+      "character": "No",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Kirara"
+    },
+    {
+      "id": "wiki-378894",
+      "name": "Kirara",
+      "character": "No",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Kirara"
+    },
+    {
+      "id": "wiki-444194",
+      "name": "Kuki Shinobu",
+      "character": "No",
+      "version": "Luna V",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Kuki_Shinobu"
+    },
+    {
+      "id": "wiki-401895",
+      "name": "Lauma",
+      "character": "No",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Lauma"
+    },
+    {
+      "id": "wiki-403281",
+      "name": "Lauma",
+      "character": "No",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Lauma"
+    },
+    {
+      "id": "wiki-378915",
+      "name": "Lynette",
+      "character": "No",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Lynette"
+    },
+    {
+      "id": "wiki-378909",
+      "name": "Lyney",
+      "character": "No",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Lyney"
+    },
+    {
+      "id": "wiki-495310",
+      "name": "Lyney",
+      "character": "No",
+      "version": "7.1",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Lyney"
+    },
+    {
+      "id": "wiki-403252",
+      "name": "Mika",
+      "character": "No",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Mika"
+    },
+    {
+      "id": "wiki-402005",
+      "name": "Nefer",
+      "character": "No",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Nefer"
+    },
+    {
+      "id": "wiki-402257",
+      "name": "Nefer",
+      "character": "No",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Nefer"
+    },
+    {
+      "id": "wiki-379147",
+      "name": "Neuvillette",
+      "character": "No",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Neuvillette"
+    },
+    {
+      "id": "wiki-378920",
+      "name": "Neuvillette",
+      "character": "No",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Neuvillette"
+    },
+    {
+      "id": "wiki-382316",
+      "name": "Neuvillette",
+      "character": "No",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Neuvillette"
+    },
+    {
+      "id": "wiki-443897",
+      "name": "Nicole",
+      "character": "No",
+      "version": "Luna V",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Nicole"
+    },
+    {
+      "id": "wiki-363417",
+      "name": "Ningguang",
+      "character": "No",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Ningguang"
+    },
+    {
+      "id": "wiki-363413",
+      "name": "Noelle",
+      "character": "No",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Noelle"
+    },
+    {
+      "id": "wiki-363415",
+      "name": "Noelle",
+      "character": "No",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Noelle"
+    },
+    {
+      "id": "wiki-496523",
+      "name": "Odette",
+      "character": "No",
+      "version": "7.1",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Odette"
+    },
+    {
+      "id": "wiki-496525",
+      "name": "Odette",
+      "character": "No",
+      "version": "7.1",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Odette"
+    },
+    {
+      "id": "wiki-363412",
+      "name": "Qiqi",
+      "character": "No",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Qiqi"
+    },
+    {
+      "id": "wiki-363404",
+      "name": "Rosaria",
+      "character": "No",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Rosaria"
+    },
+    {
+      "id": "wiki-363402",
+      "name": "Rosaria",
+      "character": "No",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Rosaria"
+    },
+    {
+      "id": "wiki-363401",
+      "name": "Rosaria",
+      "character": "No",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Rosaria"
+    },
+    {
+      "id": "wiki-363397",
+      "name": "Sangonomiya Kokomi",
+      "character": "No",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Sangonomiya_Kokomi"
+    },
+    {
+      "id": "wiki-363396",
+      "name": "Sangonomiya Kokomi",
+      "character": "No",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Sangonomiya_Kokomi"
+    },
+    {
+      "id": "wiki-382396",
+      "name": "Sayu",
+      "character": "No",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Sayu"
+    },
+    {
+      "id": "wiki-363393",
+      "name": "Shenhe",
+      "character": "No",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Shenhe"
+    },
+    {
+      "id": "wiki-378913",
+      "name": "Shikanoin Heizou",
+      "character": "No",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Shikanoin_Heizou"
+    },
+    {
+      "id": "wiki-382557",
+      "name": "Shikanoin Heizou",
+      "character": "No",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Shikanoin_Heizou"
+    },
+    {
+      "id": "wiki-382319",
+      "name": "Shikanoin Heizou",
+      "character": "No",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Shikanoin_Heizou"
+    },
+    {
+      "id": "wiki-379165",
+      "name": "Shikanoin Heizou",
+      "character": "No",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Shikanoin_Heizou"
+    },
+    {
+      "id": "wiki-382320",
+      "name": "Shikanoin Heizou",
+      "character": "No",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Shikanoin_Heizou"
+    },
+    {
+      "id": "wiki-403285",
+      "name": "Shikanoin Heizou",
+      "character": "No",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Shikanoin_Heizou"
+    },
+    {
+      "id": "wiki-401338",
+      "name": "Skirk",
+      "character": "No",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Skirk"
+    },
+    {
+      "id": "wiki-363414",
+      "name": "Sucrose",
+      "character": "No",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Sucrose"
+    },
+    {
+      "id": "wiki-499293",
+      "name": "Tartaglia",
+      "character": "No",
+      "version": "7.1",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Tartaglia"
+    },
+    {
+      "id": "wiki-499206",
+      "name": "Tartaglia",
+      "character": "No",
+      "version": "7.1",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Tartaglia"
+    },
+    {
+      "id": "wiki-495359",
+      "name": "Tartaglia",
+      "character": "No",
+      "version": "7.1",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Tartaglia"
+    },
+    {
+      "id": "wiki-499294",
+      "name": "Tartaglia",
+      "character": "No",
+      "version": "7.1",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Tartaglia"
+    },
+    {
+      "id": "wiki-496433",
+      "name": "Tartaglia",
+      "character": "No",
+      "version": "7.1",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Tartaglia"
+    },
+    {
+      "id": "wiki-378956",
+      "name": "Thoma",
+      "character": "No",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Thoma"
+    },
+    {
+      "id": "wiki-378907",
+      "name": "Thoma",
+      "character": "No",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Thoma"
+    },
+    {
+      "id": "wiki-447843",
+      "name": "Varka",
+      "character": "No",
+      "version": "Luna V",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Varka"
+    },
+    {
+      "id": "wiki-444215",
+      "name": "Varka",
+      "character": "No",
+      "version": "Luna V",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Varka"
+    },
+    {
+      "id": "wiki-444066",
+      "name": "Varka",
+      "character": "No",
+      "version": "Luna V",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Varka"
+    },
+    {
+      "id": "wiki-444141",
+      "name": "Varka",
+      "character": "No",
+      "version": "Luna V",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Varka"
+    },
+    {
+      "id": "wiki-446913",
+      "name": "Varka",
+      "character": "No",
+      "version": "Luna V",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Varka"
+    },
+    {
+      "id": "wiki-443945",
+      "name": "Varka",
+      "character": "No",
+      "version": "Luna V",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Varka"
+    },
+    {
+      "id": "wiki-496411",
+      "name": "Vesna",
+      "character": "No",
+      "version": "7.1",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Vesna"
+    },
+    {
+      "id": "wiki-496409",
+      "name": "Vesna",
+      "character": "No",
+      "version": "7.1",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Vesna"
+    },
+    {
+      "id": "wiki-497505",
+      "name": "Vesna",
+      "character": "No",
+      "version": "7.1",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Vesna"
+    },
+    {
+      "id": "wiki-496407",
+      "name": "Vodyanitsa",
+      "character": "No",
+      "version": "7.1",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Vodyanitsa"
+    },
+    {
+      "id": "wiki-495305",
+      "name": "Vodyanitsa",
+      "character": "No",
+      "version": "7.1",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Vodyanitsa"
+    },
+    {
+      "id": "wiki-491962",
+      "name": "Vodyanitsa",
+      "character": "No",
+      "version": "7.1",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Vodyanitsa"
+    },
+    {
+      "id": "wiki-444178",
+      "name": "Wriothesley",
+      "character": "No",
+      "version": "Luna V",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Wriothesley"
+    },
+    {
+      "id": "wiki-363421",
+      "name": "Xiangling",
+      "character": "No",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Xiangling"
+    },
+    {
+      "id": "wiki-363390",
+      "name": "Xianyun",
+      "character": "No",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Xianyun"
+    },
+    {
+      "id": "wiki-364430",
+      "name": "Xianyun",
+      "character": "No",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Xianyun"
+    },
+    {
+      "id": "wiki-364424",
+      "name": "Xianyun",
+      "character": "No",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Xianyun"
+    },
+    {
+      "id": "wiki-364427",
+      "name": "Xianyun",
+      "character": "No",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Xianyun"
+    },
+    {
+      "id": "wiki-364236",
+      "name": "Xianyun",
+      "character": "No",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Xianyun"
+    },
+    {
+      "id": "wiki-363420",
+      "name": "Xingqiu",
+      "character": "No",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Xingqiu"
+    },
+    {
+      "id": "wiki-363419",
+      "name": "Xingqiu",
+      "character": "No",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Xingqiu"
+    },
+    {
+      "id": "wiki-364151",
+      "name": "Xingqiu",
+      "character": "No",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Xingqiu"
+    },
+    {
+      "id": "wiki-364228",
+      "name": "Xingqiu",
+      "character": "No",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Xingqiu"
+    },
+    {
+      "id": "wiki-401333",
+      "name": "Xinyan",
+      "character": "No",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Xinyan"
+    },
+    {
+      "id": "wiki-378925",
+      "name": "Yae Miko",
+      "character": "No",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Yae_Miko"
+    },
+    {
+      "id": "wiki-400909",
+      "name": "Yanfei",
+      "character": "No",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Yanfei"
+    },
+    {
+      "id": "wiki-403318",
+      "name": "Yanfei",
+      "character": "No",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Yanfei"
+    },
+    {
+      "id": "wiki-363392",
+      "name": "Yaoyao",
+      "character": "No",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Yaoyao"
+    },
+    {
+      "id": "wiki-363391",
+      "name": "Yaoyao",
+      "character": "No",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Yaoyao"
+    },
+    {
+      "id": "wiki-413463",
+      "name": "Yelan",
+      "character": "No",
+      "version": "Luna II",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Yelan"
+    },
+    {
+      "id": "wiki-444063",
+      "name": "Yoimiya",
+      "character": "No",
+      "version": "Luna V",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Yoimiya"
+    },
+    {
+      "id": "wiki-444143",
+      "name": "Yoimiya",
+      "character": "No",
+      "version": "Luna V",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Yoimiya"
+    },
+    {
+      "id": "wiki-378917",
+      "name": "Yumemizuki Mizuki",
+      "character": "No",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Yumemizuki_Mizuki"
+    },
+    {
+      "id": "wiki-379167",
+      "name": "Yumemizuki Mizuki",
+      "character": "No",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Yumemizuki_Mizuki"
+    },
+    {
+      "id": "wiki-363395",
+      "name": "Yun Jin",
+      "character": "No",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Yun_Jin"
+    },
+    {
+      "id": "wiki-363394",
+      "name": "Yun Jin",
+      "character": "No",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Yun_Jin"
+    },
+    {
+      "id": "wiki-363403",
+      "name": "Zhongli",
+      "character": "No",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Zhongli"
+    },
+    {
+      "id": "wiki-363406",
+      "name": "Zhongli",
+      "character": "No",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Zhongli"
+    },
+    {
+      "id": "wiki-363405",
+      "name": "Zhongli",
+      "character": "No",
+      "version": "5.4",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Zhongli"
+    },
+    {
+      "id": "wiki-446090",
+      "name": "Zibai",
+      "character": "No",
+      "version": "Luna V",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Zibai"
+    },
+    {
+      "id": "wiki-491964",
+      "name": "Alyosha",
+      "character": "Yes",
+      "version": "7.1",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Alyosha"
+    },
+    {
+      "id": "wiki-496716",
+      "name": "Alyosha",
+      "character": "Yes",
+      "version": "7.1",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Alyosha"
+    },
+    {
+      "id": "wiki-444179",
+      "name": "Durin",
+      "character": "Yes",
+      "version": "Luna V",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Durin"
+    },
+    {
+      "id": "wiki-443677",
+      "name": "Durin",
+      "character": "Yes",
+      "version": "Luna V",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Durin"
+    },
+    {
+      "id": "wiki-402784",
+      "name": "Flins",
+      "character": "Yes",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Flins"
+    },
+    {
+      "id": "wiki-402787",
+      "name": "Flins",
+      "character": "Yes",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Flins"
+    },
+    {
+      "id": "wiki-378869",
+      "name": "Ifa",
+      "character": "Yes",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Ifa"
+    },
+    {
+      "id": "wiki-400913",
+      "name": "Jahoda",
+      "character": "Yes",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Jahoda"
+    },
+    {
+      "id": "wiki-402646",
+      "name": "Jahoda",
+      "character": "Yes",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Jahoda"
+    },
+    {
+      "id": "wiki-378908",
+      "name": "Kinich",
+      "character": "Yes",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Kinich"
+    },
+    {
+      "id": "wiki-402297",
+      "name": "Nefer",
+      "character": "Yes",
+      "version": "Luna I",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Nefer"
+    },
+    {
+      "id": "wiki-494690",
+      "name": "Odette",
+      "character": "Yes",
+      "version": "7.1",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Odette"
+    },
+    {
+      "id": "wiki-494675",
+      "name": "Sandrone",
+      "character": "Yes",
+      "version": "7.1",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Sandrone"
+    },
+    {
+      "id": "wiki-492142",
+      "name": "Sandrone",
+      "character": "Yes",
+      "version": "7.1",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Sandrone"
+    },
+    {
+      "id": "wiki-443679",
+      "name": "Varka",
+      "character": "Yes",
+      "version": "Luna V",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Varka"
+    },
+    {
+      "id": "wiki-451453",
+      "name": "Varka",
+      "character": "Yes",
+      "version": "Luna VI",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Varka"
+    },
+    {
+      "id": "wiki-497405",
+      "name": "Vesna",
+      "character": "Yes",
+      "version": "7.1",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Vesna"
+    },
+    {
+      "id": "wiki-496524",
+      "name": "Vodyanitsa",
+      "character": "Yes",
+      "version": "7.1",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Vodyanitsa"
+    },
+    {
+      "id": "wiki-379087",
+      "name": "Xilonen",
+      "character": "Yes",
+      "version": "5.7",
+      "source": "https://genshin-impact.fandom.com/wiki/Anecdote_Chronicles:_Xilonen"
+    }
+  ]
+}

@@ -1,9 +1,9 @@
 {
 	"files": {
 		"anecdotes.json": {
-			"bytes": 33308,
-			"path": "data/anecdotes-aa744fd7ca3027f42ab1679e300d8997ed9a98de7e93bde0bc2410625f5c9f89.json",
-			"sha256": "aa744fd7ca3027f42ab1679e300d8997ed9a98de7e93bde0bc2410625f5c9f89"
+			"bytes": 33067,
+			"path": "data/anecdotes-f9b04e5a04902d9cfb6742c474d7c2ade9042dfb5d120ad54609132e0b2255c7.json",
+			"sha256": "f9b04e5a04902d9cfb6742c474d7c2ade9042dfb5d120ad54609132e0b2255c7"
 		},
 		"artifact_levels.json": {
 			"bytes": 109487,
@@ -147,6 +147,6 @@
 		}
 	},
 	"notes": "Reviewed reference update for Genshin 7.1. See catalog sources; manually maintained totals may retain older baselines.",
-	"revision": "2026-10-09.152326",
+	"revision": "2026-10-09.152639",
 	"schema_version": 1
 }
