@@ -31,9 +31,9 @@
 			"sha256": "9131b2f809e939ad604b0270a1ffaf410f2e433884ef433c561ad726fa58f448"
 		},
 		"chest_reference.json": {
-			"bytes": 315,
-			"path": "data/chest_reference-fa61488e9d656b25707eb55fa170030ed0a35ebd93c971a761ca998554c3f62f.json",
-			"sha256": "fa61488e9d656b25707eb55fa170030ed0a35ebd93c971a761ca998554c3f62f"
+			"bytes": 1258,
+			"path": "data/chest_reference-143abe667f4beb3cee3e6a4ba0341108740d2ebd976d9cd054ea6dcc282378cc.json",
+			"sha256": "143abe667f4beb3cee3e6a4ba0341108740d2ebd976d9cd054ea6dcc282378cc"
 		},
 		"companion_materials.json": {
 			"bytes": 87110,
@@ -81,9 +81,9 @@
 			"sha256": "0e4f909c3610d3b3b3ee930bcff5fd2587da0e154bc0151190fea4ff892950dc"
 		},
 		"endgame_schedule.json": {
-			"bytes": 5070,
-			"path": "data/endgame_schedule-3c66e6587b413fedf0887b1c5148d1d819322b07d610c656df4f599ece5eab8e.json",
-			"sha256": "3c66e6587b413fedf0887b1c5148d1d819322b07d610c656df4f599ece5eab8e"
+			"bytes": 5896,
+			"path": "data/endgame_schedule-ca5c3d961336f47169d731bb3a2a4d8f75f597f53b06ac34b6295d8799c3e989.json",
+			"sha256": "ca5c3d961336f47169d731bb3a2a4d8f75f597f53b06ac34b6295d8799c3e989"
 		},
 		"game_version.json": {
 			"bytes": 194,
@@ -146,7 +146,7 @@
 			"sha256": "d5ef005518ab644b3fb4de089613ea7fdb2c7aa4e981813919d3e1a6ba8dd62a"
 		}
 	},
-	"notes": "Chest maximums: per-type totals from the wiki Chest page (read 2026-09-30; may not yet include all 7.1 chests) and regional chest maxima for Mondstadt, Liyue, Inazuma I/II and Tsurumi.",
-	"revision": "2026-09-30.110907",
+	"notes": "Reviewed reference update for Genshin 7.1. See catalog sources; manually maintained totals may retain older baselines.",
+	"revision": "2026-10-09.152326",
 	"schema_version": 1
 }

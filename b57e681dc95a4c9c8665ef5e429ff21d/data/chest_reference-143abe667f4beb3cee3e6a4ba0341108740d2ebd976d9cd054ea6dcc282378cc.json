@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "maximums": {
+    "Common": 3838,
+    "Exquisite": 3372,
+    "Precious": 1072,
+    "Luxurious": 409,
+    "Remarkable": 416
+  },
+  "source": "Totals table on https://genshin-impact.fandom.com/wiki/Chest as read on 2026-09-30; may not yet include chests added in version 7.1.",
+  "regional_history": {
+    "schema_version": 1,
+    "snapshot": "HoYoLAB community guide, marked v6.3",
+    "source": "https://www.hoyolab.com/article/27838672",
+    "note": "current = chests a player can still collect today; all_time = highest achievement count ever possible, including past event chests and early counter bugs. Only regions where the two differ, or where the shared reference has no chest maximum, need an entry.",
+    "chests": {
+      "Mondstadt:": {
+        "current": 518,
+        "all_time": 523
+      },
+      "Liyue:": {
+        "current": 1132,
+        "all_time": 1149
+      },
+      "Thunder and Eternity - Series I": {
+        "current": 357,
+        "all_time": 358
+      },
+      "Thunder and Eternity - Series II": {
+        "current": 204,
+        "all_time": 204
+      },
+      "Chronicles of the Sea of Fog": {
+        "current": 169,
+        "all_time": 169
+      }
+    }
+  }
+}
