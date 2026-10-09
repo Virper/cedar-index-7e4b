@@ -36,9 +36,9 @@
 			"sha256": "ce0aceba8c97e55a22c4c12dd9d69e2238f4b9a901961b24c22f457363f454f0"
 		},
 		"companion_metadata.json": {
-			"bytes": 11536,
-			"path": "data/companion_metadata-83b78d31ad504a8fffa3153a23a9ade4e550109c76875f1e7d80efdfdfa9b930.json",
-			"sha256": "83b78d31ad504a8fffa3153a23a9ade4e550109c76875f1e7d80efdfdfa9b930"
+			"bytes": 25033,
+			"path": "data/companion_metadata-76d44b8aaac8c172c6e179150863d6aadf42143d43f1fc70e7fae24752817807.json",
+			"sha256": "76d44b8aaac8c172c6e179150863d6aadf42143d43f1fc70e7fae24752817807"
 		},
 		"data_character_keys.json": {
 			"bytes": 6671,
@@ -142,6 +142,6 @@
 		}
 	},
 	"notes": "Reviewed reference update for Genshin 7.1. See catalog sources; manually maintained totals may retain older baselines.",
-	"revision": "2026-10-09.152639",
+	"revision": "2026-10-09.154134",
 	"schema_version": 1
 }
