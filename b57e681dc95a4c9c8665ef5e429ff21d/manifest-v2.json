@@ -1,9 +1,9 @@
 {
 	"files": {
 		"anecdotes.json": {
-			"bytes": 33067,
-			"path": "data/anecdotes-f9b04e5a04902d9cfb6742c474d7c2ade9042dfb5d120ad54609132e0b2255c7.json",
-			"sha256": "f9b04e5a04902d9cfb6742c474d7c2ade9042dfb5d120ad54609132e0b2255c7"
+			"bytes": 33244,
+			"path": "data/anecdotes-7ee1eb5453b974f7bb24fa9b58919a777a50ab2c7e02c946b29bd0dcf5468b5b.json",
+			"sha256": "7ee1eb5453b974f7bb24fa9b58919a777a50ab2c7e02c946b29bd0dcf5468b5b"
 		},
 		"artifact_levels.json": {
 			"bytes": 109487,
@@ -146,13 +146,13 @@
 			"sha256": "d5ef005518ab644b3fb4de089613ea7fdb2c7aa4e981813919d3e1a6ba8dd62a"
 		}
 	},
-	"notes": "Added 968 catalog-listed public item and weapon images for internal recognition only. Existing reference catalogs are unchanged. No personal screenshots, custom artwork or account data. Recognition support requires an updated app; downloads remain opt-in and reviewed.",
+	"notes": "Reviewed reference update for Genshin 7.1. See catalog sources; manually maintained totals may retain older baselines.",
 	"recognition_pack": {
 		"bytes": 49331704,
 		"images": 968,
 		"path": "recognition/27cef2ebb46aad4b08ee50629a2562364277de20c33df7a92cfebc244c1afc92.zip",
 		"sha256": "27cef2ebb46aad4b08ee50629a2562364277de20c33df7a92cfebc244c1afc92"
 	},
-	"revision": "2026-10-14.211704",
+	"revision": "2026-10-16.180607",
 	"schema_version": 1
 }
