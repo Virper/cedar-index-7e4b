@@ -81,9 +81,9 @@
 			"sha256": "ca5c3d961336f47169d731bb3a2a4d8f75f597f53b06ac34b6295d8799c3e989"
 		},
 		"game_version.json": {
-			"bytes": 194,
-			"path": "data/game_version-60e711c2d4242d10068cc40fafe2a610e63d254d7070943e3071c4a146abab0d.json",
-			"sha256": "60e711c2d4242d10068cc40fafe2a610e63d254d7070943e3071c4a146abab0d"
+			"bytes": 254,
+			"path": "data/game_version-658443d1c888c7fd6595289d05d2250573bff71137b1014e43bff8d3dea706a3.json",
+			"sha256": "658443d1c888c7fd6595289d05d2250573bff71137b1014e43bff8d3dea706a3"
 		},
 		"progression.json": {
 			"bytes": 448227,
@@ -141,7 +141,7 @@
 			"sha256": "d5ef005518ab644b3fb4de089613ea7fdb2c7aa4e981813919d3e1a6ba8dd62a"
 		}
 	},
-	"notes": "Reviewed reference update for Genshin 7.1. See catalog sources; manually maintained totals may retain older baselines.",
-	"revision": "2026-10-16.180607",
+	"notes": "Reviewed reference update for Genshin 7.2. See catalog sources; manually maintained totals may retain older baselines.",
+	"revision": "2026-11-04.191127",
 	"schema_version": 1
 }
