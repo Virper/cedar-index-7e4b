@@ -21,9 +21,9 @@
 			"sha256": "7d523707cfecca5c3b72cbcc8291b7f4e57383ff60c6132a2a83c60e0b67a74f"
 		},
 		"character_costs.json": {
-			"bytes": 422503,
-			"path": "data/character_costs-2e2caf431822d9b0d601f4daaff29ddd0296be20219c5b51b10bec8b97d52ad0.json",
-			"sha256": "2e2caf431822d9b0d601f4daaff29ddd0296be20219c5b51b10bec8b97d52ad0"
+			"bytes": 429553,
+			"path": "data/character_costs-c995e261847cef2867b39c31e915793038c95202efa1e1ff47a88221ab24302f.json",
+			"sha256": "c995e261847cef2867b39c31e915793038c95202efa1e1ff47a88221ab24302f"
 		},
 		"character_exp.json": {
 			"bytes": 3703,
@@ -36,24 +36,24 @@
 			"sha256": "143abe667f4beb3cee3e6a4ba0341108740d2ebd976d9cd054ea6dcc282378cc"
 		},
 		"companion_materials.json": {
-			"bytes": 87110,
-			"path": "data/companion_materials-ce0aceba8c97e55a22c4c12dd9d69e2238f4b9a901961b24c22f457363f454f0.json",
-			"sha256": "ce0aceba8c97e55a22c4c12dd9d69e2238f4b9a901961b24c22f457363f454f0"
+			"bytes": 88313,
+			"path": "data/companion_materials-a3b9698d639cd2206b4ec7520dc2a683ebec9061b6cb2f39772139663379d0e8.json",
+			"sha256": "a3b9698d639cd2206b4ec7520dc2a683ebec9061b6cb2f39772139663379d0e8"
 		},
 		"companion_metadata.json": {
-			"bytes": 25033,
-			"path": "data/companion_metadata-76d44b8aaac8c172c6e179150863d6aadf42143d43f1fc70e7fae24752817807.json",
-			"sha256": "76d44b8aaac8c172c6e179150863d6aadf42143d43f1fc70e7fae24752817807"
+			"bytes": 25179,
+			"path": "data/companion_metadata-006e61f1ea8da320153331d07b858d47f541bacf7216bd218755ca80b2c79b94.json",
+			"sha256": "006e61f1ea8da320153331d07b858d47f541bacf7216bd218755ca80b2c79b94"
 		},
 		"data_character_keys.json": {
-			"bytes": 6671,
-			"path": "data/data_character_keys-6832c512b2d4dbef8c2559e38f77294619145df6662f8bbf52af2aa946dbdc8a.json",
-			"sha256": "6832c512b2d4dbef8c2559e38f77294619145df6662f8bbf52af2aa946dbdc8a"
+			"bytes": 6777,
+			"path": "data/data_character_keys-175b84342d60d6a1c0229d3634f1e26cad7fdd18b6f8d105d86c297f10ba8d3b.json",
+			"sha256": "175b84342d60d6a1c0229d3634f1e26cad7fdd18b6f8d105d86c297f10ba8d3b"
 		},
 		"data_characters.json": {
-			"bytes": 200072,
-			"path": "data/data_characters-cd52bbfdd55376fb2943c7f91fdc6d44c0c5f98a3ec2f776f26b38e7b2ce1225.json",
-			"sha256": "cd52bbfdd55376fb2943c7f91fdc6d44c0c5f98a3ec2f776f26b38e7b2ce1225"
+			"bytes": 203296,
+			"path": "data/data_characters-6a98be1885794d1c58ea3cf4a94597a2fe605c97d1306fcca7e5d017bfd260d9.json",
+			"sha256": "6a98be1885794d1c58ea3cf4a94597a2fe605c97d1306fcca7e5d017bfd260d9"
 		},
 		"data_characters_curves.json": {
 			"bytes": 13146,
@@ -66,14 +66,14 @@
 			"sha256": "d3594cb6e48aff16cb41ce1e6175c812579a73927841b3d613e054876b9ec355"
 		},
 		"data_weapon_info.json": {
-			"bytes": 390993,
-			"path": "data/data_weapon_info-c73ca08fae2dda0ba0c4e23f8b53ceacda90b3b832f4976fad0fa05c46c72a35.json",
-			"sha256": "c73ca08fae2dda0ba0c4e23f8b53ceacda90b3b832f4976fad0fa05c46c72a35"
+			"bytes": 394791,
+			"path": "data/data_weapon_info-19d630b7de7af04688b44c2ae5570de2d4d40659c7f4fd1932053e1db36d7f59.json",
+			"sha256": "19d630b7de7af04688b44c2ae5570de2d4d40659c7f4fd1932053e1db36d7f59"
 		},
 		"data_weapons.json": {
-			"bytes": 223140,
-			"path": "data/data_weapons-7c4d5acb00ce4943f6aadba2ed491caf0815b8e63c6a989594ba05e82916fb6b.json",
-			"sha256": "7c4d5acb00ce4943f6aadba2ed491caf0815b8e63c6a989594ba05e82916fb6b"
+			"bytes": 224024,
+			"path": "data/data_weapons-1bff06c2385d2e0429fc13681d519a9d5e0717d426dd41dc7843b0215d2e08be.json",
+			"sha256": "1bff06c2385d2e0429fc13681d519a9d5e0717d426dd41dc7843b0215d2e08be"
 		},
 		"data_weapons_curves.json": {
 			"bytes": 56774,
@@ -91,9 +91,9 @@
 			"sha256": "658443d1c888c7fd6595289d05d2250573bff71137b1014e43bff8d3dea706a3"
 		},
 		"progression.json": {
-			"bytes": 448227,
-			"path": "data/progression-f57c5ffa27c6faba884065ae10600bb36252c080dd99e545c651677fd8a2edaf.json",
-			"sha256": "f57c5ffa27c6faba884065ae10600bb36252c080dd99e545c651677fd8a2edaf"
+			"bytes": 459311,
+			"path": "data/progression-1f4069209582d0cccf1b4f69c682bcef8cf9bcb6286e31732b9ba5c12a756331.json",
+			"sha256": "1f4069209582d0cccf1b4f69c682bcef8cf9bcb6286e31732b9ba5c12a756331"
 		},
 		"regional_reference.json": {
 			"bytes": 2871,
@@ -101,9 +101,9 @@
 			"sha256": "3a23226971eaa1f9361876043dba9d937104d1742935be42744a9d724bff58a1"
 		},
 		"roster.json": {
-			"bytes": 17834,
-			"path": "data/roster-c7841adad477d8804a2ad6dd6dd12b10b0f47e4b5a8672e52cd52de3126e855f.json",
-			"sha256": "c7841adad477d8804a2ad6dd6dd12b10b0f47e4b5a8672e52cd52de3126e855f"
+			"bytes": 18166,
+			"path": "data/roster-57f3cd8dfc3e947a5d281254b8dc8d3a8fac7608cbb73ec4d2cd5007d341287f.json",
+			"sha256": "57f3cd8dfc3e947a5d281254b8dc8d3a8fac7608cbb73ec4d2cd5007d341287f"
 		},
 		"set_rarities.json": {
 			"bytes": 3036,
@@ -111,34 +111,34 @@
 			"sha256": "1f2ce2d0e4db1d6ad4509e2b8149975b8ce05789585e6676de313530b51c200e"
 		},
 		"talent_costs.json": {
-			"bytes": 476479,
-			"path": "data/talent_costs-05bdc9fc05cf0f1e8b38311ffae1249ec68711d4f94ab5f1e1aaefd9d77687ab.json",
-			"sha256": "05bdc9fc05cf0f1e8b38311ffae1249ec68711d4f94ab5f1e1aaefd9d77687ab"
+			"bytes": 484047,
+			"path": "data/talent_costs-8fcee7f0c79d657f121117236461491b7993238f9d515de299f1d83376887b8a.json",
+			"sha256": "8fcee7f0c79d657f121117236461491b7993238f9d515de299f1d83376887b8a"
 		},
 		"tracker_achievements.json": {
-			"bytes": 877655,
-			"path": "data/tracker_achievements-479d489794aeb316061f3060ae277f2f7b399a26ec4509b8a75b1192af338665.json",
-			"sha256": "479d489794aeb316061f3060ae277f2f7b399a26ec4509b8a75b1192af338665"
+			"bytes": 904898,
+			"path": "data/tracker_achievements-ad0e49d567e23d71726792e25d0b6dc31d6f9ab628a83969dbf8b2109a1060b5.json",
+			"sha256": "ad0e49d567e23d71726792e25d0b6dc31d6f9ab628a83969dbf8b2109a1060b5"
 		},
 		"tracker_weapon_sources.json": {
-			"bytes": 35319,
-			"path": "data/tracker_weapon_sources-b8f564528084ae89f785e9dd69d1b7bb18550027da3c0afa3e7424aae4956668.json",
-			"sha256": "b8f564528084ae89f785e9dd69d1b7bb18550027da3c0afa3e7424aae4956668"
+			"bytes": 35491,
+			"path": "data/tracker_weapon_sources-446da0a17107759f9d992c17ceb5d8938a42f4a7bb035eb548bb2e1aedf3f3ca.json",
+			"sha256": "446da0a17107759f9d992c17ceb5d8938a42f4a7bb035eb548bb2e1aedf3f3ca"
 		},
 		"tracker_weapons.json": {
-			"bytes": 71863,
-			"path": "data/tracker_weapons-e60f18f9ac53782015fc1f871f022659868a1046f22c80c9398121c721637185.json",
-			"sha256": "e60f18f9ac53782015fc1f871f022659868a1046f22c80c9398121c721637185"
+			"bytes": 72176,
+			"path": "data/tracker_weapons-040973ad96a0682ecc6c709c4ae4117d00feeb85279606575e0bceae516e5bf9.json",
+			"sha256": "040973ad96a0682ecc6c709c4ae4117d00feeb85279606575e0bceae516e5bf9"
 		},
 		"weapon_costs.json": {
-			"bytes": 713151,
-			"path": "data/weapon_costs-aeaf067f1e83e1fb52758b4c3204f5accefb66a92fd5e4e91eebbaf26a062d79.json",
-			"sha256": "aeaf067f1e83e1fb52758b4c3204f5accefb66a92fd5e4e91eebbaf26a062d79"
+			"bytes": 716068,
+			"path": "data/weapon_costs-9ffde965dd36cc24e7a20e4fc1474e1f6515a77f1fd65d6c20b965109f637899.json",
+			"sha256": "9ffde965dd36cc24e7a20e4fc1474e1f6515a77f1fd65d6c20b965109f637899"
 		},
 		"weapons.json": {
-			"bytes": 26180,
-			"path": "data/weapons-25d26c55ca4600a795bf8770d1e1ab08a8dafa5ee61386535e1a68409fd7447f.json",
-			"sha256": "25d26c55ca4600a795bf8770d1e1ab08a8dafa5ee61386535e1a68409fd7447f"
+			"bytes": 26284,
+			"path": "data/weapons-7812d349e1105beeeb5124d7665b5e769548dc9e28b7e2439e89ae2bd1794650.json",
+			"sha256": "7812d349e1105beeeb5124d7665b5e769548dc9e28b7e2439e89ae2bd1794650"
 		},
 		"weekly_catalog.json": {
 			"bytes": 2529,
@@ -153,6 +153,6 @@
 		"path": "recognition/27cef2ebb46aad4b08ee50629a2562364277de20c33df7a92cfebc244c1afc92.zip",
 		"sha256": "27cef2ebb46aad4b08ee50629a2562364277de20c33df7a92cfebc244c1afc92"
 	},
-	"revision": "2026-11-04.191127",
+	"revision": "2026-11-05.133807",
 	"schema_version": 1
 }
