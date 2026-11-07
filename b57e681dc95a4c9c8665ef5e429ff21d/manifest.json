@@ -91,9 +91,9 @@
 			"sha256": "1f4069209582d0cccf1b4f69c682bcef8cf9bcb6286e31732b9ba5c12a756331"
 		},
 		"regional_reference.json": {
-			"bytes": 2871,
-			"path": "data/regional_reference-3a23226971eaa1f9361876043dba9d937104d1742935be42744a9d724bff58a1.json",
-			"sha256": "3a23226971eaa1f9361876043dba9d937104d1742935be42744a9d724bff58a1"
+			"bytes": 6227,
+			"path": "data/regional_reference-3da0a33f887a15f51beccedb3f98533b8d38cc41d413c9589257f073d52fd060.json",
+			"sha256": "3da0a33f887a15f51beccedb3f98533b8d38cc41d413c9589257f073d52fd060"
 		},
 		"roster.json": {
 			"bytes": 18166,
@@ -142,6 +142,6 @@
 		}
 	},
 	"notes": "Reviewed reference update for Genshin 7.2. See catalog sources; manually maintained totals may retain older baselines.",
-	"revision": "2026-11-05.133807",
+	"revision": "2026-11-07.164713",
 	"schema_version": 1
 }
